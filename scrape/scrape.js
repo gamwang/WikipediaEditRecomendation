@@ -5,7 +5,7 @@ var _ = require('underscore');
 var fs = require('fs');
 var log = fs.createWriteStream('users.txt', {'flags': 'a'});
 
-function scrapeUserNames(prefix, userCount, cb) { 
+function scrapeUserNames(prefix, cb) { 
     var url = 'https://en.wikipedia.org/w/api.php?action=query&list=allusers&aufrom=' + prefix + '&aulimit=' + 500 + '&format=json&auwitheditsonly=true';
     request(url, function (err, resp, body) {
         cb(err, resp, JSON.parse(body));
@@ -35,7 +35,7 @@ for (var count = 0; count < 1; count += 1) {
         prefix += possible.charAt(Math.floor(Math.random() * possible.length));
     }
 
-    scrapeUserNames(prefix, 1000, function (err, resp, body) {
+    scrapeUserNames(prefix, function (err, resp, body) {
         scrapeUserContrib(body.query.allusers);
     });
 }
