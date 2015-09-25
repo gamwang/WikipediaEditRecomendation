@@ -11,4 +11,4 @@ node scrape.js data.txt
 ```
 data will be saved into data.txt
 ## Data schema
-Refer to userContributions.txt
+Refer to contributions.txt and categories.txt
