@@ -7,8 +7,10 @@ For CS194-16: Data Science Class
 ```
 cd scrape
 npm install
-node scrape.js data.txt
+// To get 500 users' contributions. 
+node scrape.js -con contributions.txt
+// To get Categories on specific topic (In this case John Canny)
+node scrape.js -cat categories.txt John\ Canny
 ```
-data will be saved into data.txt
 ## Data schema
 Refer to contributions.txt and categories.txt

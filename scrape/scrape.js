@@ -3,7 +3,6 @@
 var request = require('request');
 var _ = require('underscore');
 var fs = require('fs');
-var log = fs.createWriteStream(process.argv[2], {'flags': 'a'});
 
 function scrapeUserNames(prefix, cb) { 
     var url = 'https://en.wikipedia.org/w/api.php?action=query&list=allusers&aufrom=' + prefix + '&aulimit=' + 500 + '&format=json&auwitheditsonly=true';
@@ -34,14 +33,21 @@ function getCategory(title, cb) {
     request(url, cb);
 }
 
-for (var count = 0; count < 1; count += 1) {
-    var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-    var prefix = '';
-    for (var i = 0; i < 1; i += 1) {
-        prefix += possible.charAt(Math.floor(Math.random() * possible.length));
+var cmdline = process.argv;
+var log = fs.createWriteStream(cmdline[3], {'flags': 'a'});
+if (cmdline[2] == '-con') {
+    for (var count = 0; count < 1; count += 1) {
+        var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+        var prefix = '';
+        for (var i = 0; i < 1; i += 1) {
+            prefix += possible.charAt(Math.floor(Math.random() * possible.length));
+        }
+        scrapeUserNames(prefix, function (err, resp, body) {
+            scrapeUserContrib(body.query.allusers);
+        });
     }
-
-    scrapeUserNames(prefix, function (err, resp, body) {
-        scrapeUserContrib(body.query.allusers);
+} else if (cmdline[2] == '-cat') {
+    getCategory(cmdline[4], function (err, resp, body) {
+        log.write(body);
     });
 }
