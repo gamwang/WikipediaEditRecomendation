@@ -3,7 +3,7 @@
 var request = require('request');
 var _ = require('underscore');
 var fs = require('fs');
-var log = fs.createWriteStream('users.txt', {'flags': 'a'});
+var log = fs.createWriteStream(process.argv[2], {'flags': 'a'});
 
 function scrapeUserNames(prefix, cb) { 
     var url = 'https://en.wikipedia.org/w/api.php?action=query&list=allusers&aufrom=' + prefix + '&aulimit=' + 500 + '&format=json&auwitheditsonly=true';
@@ -28,6 +28,7 @@ function scrapeUserContrib(users) {
         });
     });
 }
+
 for (var count = 0; count < 1; count += 1) {
     var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
     var prefix = '';
