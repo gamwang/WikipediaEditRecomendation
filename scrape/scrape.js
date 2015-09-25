@@ -34,11 +34,6 @@ function getCategory(title, cb) {
     request(url, cb);
 }
 
-getCategory('John Canny', function (err, resp, body) {
-    console.log(body);
-});
-
-/**
 for (var count = 0; count < 1; count += 1) {
     var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
     var prefix = '';
@@ -50,4 +45,3 @@ for (var count = 0; count < 1; count += 1) {
         scrapeUserContrib(body.query.allusers);
     });
 }
-*/
