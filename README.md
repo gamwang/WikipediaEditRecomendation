@@ -7,7 +7,7 @@ For CS194-16: Data Science Class
 ```
 cd scrape
 npm install
-// To get 500 users' contributions. 
+// To get random 500 users' contributions. 
 node scrape.js -con contributions.txt
 // To get Categories on specific topic (In this case John Canny)
 node scrape.js -cat categories.txt John\ Canny
