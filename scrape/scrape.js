@@ -46,7 +46,7 @@ if (cmdline[2] == '-con') {
             prefix += possible.charAt(Math.floor(Math.random() * possible.length));
         }
         module.exports.scrapeUserNames(prefix, function (err, resp, body) {
-            scrapeUserContrib(body.query.allusers);
+            module.exports.scrapeUserContrib(body.query.allusers);
         });
     }
 } else if (cmdline[2] == '-cat') {
