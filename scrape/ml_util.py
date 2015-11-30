@@ -1,6 +1,6 @@
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import TfidfTransformer
-from sklearn.cluster import KMeans
+from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
+from sklearn.cluster import KMeans, DBSCAN
+from sklearn.neighbors import NearestNeighbors
 import simplejson as json
 from matplotlib import pyplot as plt
 import numpy as np
@@ -8,7 +8,7 @@ import time
 import operator
 import math
 
-THRESH_HOLD = 10
+THRESH_HOLD = 5
 
 def get_data(count):
     f = open('./articles.json', 'r')
@@ -32,7 +32,7 @@ def get_data(count):
     return articles, ids
 
 def featurize(data):
-    ngram_vectorizer = CountVectorizer(analyzer='word', ngram_range=(2, 2), min_df=1)
+    ngram_vectorizer = CountVectorizer(analyzer='word', ngram_range=(1, 3), min_df=1)
     counts = ngram_vectorizer.fit_transform(data)
     f_names = ngram_vectorizer.get_feature_names() 
     f_vals = counts.toarray().astype(int) 
@@ -84,35 +84,36 @@ def main():
     #data = ["James likes red peach. James likes red peach.", "Jon likes that James likes red peach. Jon likes that James likes red peach.", "James likes red peach.", "James likes red peach. Haha", "James likes red peach. No way"]
     start = time.time()
     f_names_t, f_vals_t = featurize(articles)
-    print f_vals_t.shape
     f_names, f_vals = filter_features(f_names_t, f_vals_t, THRESH_HOLD)
     X = tfidf_weights(f_vals)
-    print X.shape
-    # DO CLUSTERING HERE
-    estimater, labels =  cluster_n(X, 4)
-    end = time.time()
-    print end - start
-    classification = dict(zip(ids, labels)) 
-    # need a way to visualize dimension of data better; currently only visualizing feature #0 and 1
-    div_lbls = get_output(labels, X)
-
-    num_feats = len(f_names)
-    num_feats_sqrt = math.ceil(num_feats ** (0.5))
-    plt.figure(1)
-    for j in range(1, num_feats):
-        colors = ['r', 'b', 'g', 'y']
-        cur_placement = num_feats_sqrt * 100 + num_feats_sqrt * 10 + j
-        print cur_placement
-        plt.subplot(cur_placement)
-        for i in range(len(div_lbls)):
-            cur = np.array(div_lbls[i])
-            plt.scatter(cur[:,j-1], cur[:,j], c=colors[i])
-        print f_names[j-1], f_names[j]
-        plt.xlabel('weighted frequencies of ' + f_names[j-1])
-        plt.ylabel('weighted frequencies of ' + f_names[j])
-    plt.show()
+    """
+    nbrs = NearestNeighbors(n_neighbors=2, algorithm='ball_tree').fit(X)
+    distances, indices = nbrs.kneighbors(X)
     
-    #print classification
+    plt.hist(distances[:,1])
+    plt.show()
+    """
+    db = DBSCAN(eps=1.0, min_samples=5, algorithm='ball_tree').fit(X)
+    labels = db.labels_
+
+    # Number of clusters in labels, ignoring noise if present.
+    n_clusters_ = len(set(labels)) - (1 if -1 in labels else 0)
+    print n_clusters_
+
+    """
+    print('Estimated number of clusters: %d' % n_clusters_)
+    print("Homogeneity: %0.3f" % metrics.homogeneity_score(labels_true, labels))
+    print("Completeness: %0.3f" % metrics.completeness_score(labels_true, labels))
+    print("V-measure: %0.3f" % metrics.v_measure_score(labels_true, labels))
+    print("Adjusted Rand Index: %0.3f"
+          % metrics.adjusted_rand_score(labels_true, labels))
+    print("Adjusted Mutual Information: %0.3f"
+          % metrics.adjusted_mutual_info_score(labels_true, labels))
+    print("Silhouette Coefficient: %0.3f"
+          % metrics.silhouette_score(X, labels))
+    print n_clusters_
+    """
+
 
 if __name__ == "__main__":
     main()
