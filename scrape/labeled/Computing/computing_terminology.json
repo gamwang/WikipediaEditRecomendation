@@ -1,0 +1,672 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 60467,
+                "ns": 0,
+                "title": "Abnormal end"
+            },
+            {
+                "pageid": 60478,
+                "ns": 0,
+                "title": "Abort (computing)"
+            },
+            {
+                "pageid": 507144,
+                "ns": 0,
+                "title": "Address space"
+            },
+            {
+                "pageid": 20555385,
+                "ns": 0,
+                "title": "Application posture"
+            },
+            {
+                "pageid": 14700832,
+                "ns": 0,
+                "title": "Binary code compatibility"
+            },
+            {
+                "pageid": 14806503,
+                "ns": 0,
+                "title": "Blocking (computing)"
+            },
+            {
+                "pageid": 1266097,
+                "ns": 0,
+                "title": "Bucket (computing)"
+            },
+            {
+                "pageid": 13787015,
+                "ns": 0,
+                "title": "Bus factor"
+            },
+            {
+                "pageid": 972304,
+                "ns": 0,
+                "title": "Byte orientation"
+            },
+            {
+                "pageid": 26866158,
+                "ns": 0,
+                "title": "Canonical signed digit"
+            },
+            {
+                "pageid": 1046120,
+                "ns": 0,
+                "title": "Canonicalization"
+            },
+            {
+                "pageid": 18681281,
+                "ns": 0,
+                "title": "Clobbering"
+            },
+            {
+                "pageid": 874123,
+                "ns": 0,
+                "title": "Clone (computing)"
+            },
+            {
+                "pageid": 8905001,
+                "ns": 0,
+                "title": "Cobrowsing"
+            },
+            {
+                "pageid": 215461,
+                "ns": 0,
+                "title": "Command (computing)"
+            },
+            {
+                "pageid": 20895417,
+                "ns": 0,
+                "title": "Communication engine"
+            },
+            {
+                "pageid": 581885,
+                "ns": 0,
+                "title": "Concurrent user"
+            },
+            {
+                "pageid": 36108052,
+                "ns": 0,
+                "title": "Contextualization (computer science)"
+            },
+            {
+                "pageid": 624144,
+                "ns": 0,
+                "title": "Control logic"
+            },
+            {
+                "pageid": 47790980,
+                "ns": 0,
+                "title": "Control variable (programming)"
+            },
+            {
+                "pageid": 1776682,
+                "ns": 0,
+                "title": "Custom software"
+            },
+            {
+                "pageid": 6206429,
+                "ns": 0,
+                "title": "Customer engineer"
+            },
+            {
+                "pageid": 22217168,
+                "ns": 0,
+                "title": "Cyber spying"
+            },
+            {
+                "pageid": 38289699,
+                "ns": 0,
+                "title": "Cyber-collection"
+            },
+            {
+                "pageid": 3369375,
+                "ns": 0,
+                "title": "Cyberwarfare"
+            },
+            {
+                "pageid": 31383175,
+                "ns": 0,
+                "title": "Cyberworthiness"
+            },
+            {
+                "pageid": 4166591,
+                "ns": 0,
+                "title": "Dashboard (business)"
+            },
+            {
+                "pageid": 47868,
+                "ns": 0,
+                "title": "Data stream"
+            },
+            {
+                "pageid": 957316,
+                "ns": 0,
+                "title": "Default (computer science)"
+            },
+            {
+                "pageid": 12467541,
+                "ns": 0,
+                "title": "Definitive software library"
+            },
+            {
+                "pageid": 661384,
+                "ns": 0,
+                "title": "Dependability"
+            },
+            {
+                "pageid": 47688354,
+                "ns": 0,
+                "title": "Deployment Management"
+            },
+            {
+                "pageid": 12843818,
+                "ns": 0,
+                "title": "Device control register"
+            },
+            {
+                "pageid": 9101,
+                "ns": 0,
+                "title": "Device driver"
+            },
+            {
+                "pageid": 431270,
+                "ns": 0,
+                "title": "Digital audio workstation"
+            },
+            {
+                "pageid": 14908558,
+                "ns": 0,
+                "title": "Direct mode"
+            },
+            {
+                "pageid": 4419230,
+                "ns": 0,
+                "title": "Spelling of disc"
+            },
+            {
+                "pageid": 46699529,
+                "ns": 0,
+                "title": "Downstream (software development)"
+            },
+            {
+                "pageid": 25290996,
+                "ns": 0,
+                "title": "Elapsed real time"
+            },
+            {
+                "pageid": 638447,
+                "ns": 0,
+                "title": "Embedded software"
+            },
+            {
+                "pageid": 2358603,
+                "ns": 0,
+                "title": "End system"
+            },
+            {
+                "pageid": 127759,
+                "ns": 0,
+                "title": "End user"
+            },
+            {
+                "pageid": 34812675,
+                "ns": 0,
+                "title": "Event structure"
+            },
+            {
+                "pageid": 418206,
+                "ns": 0,
+                "title": "Execution (computing)"
+            },
+            {
+                "pageid": 7791133,
+                "ns": 0,
+                "title": "Factory reset"
+            },
+            {
+                "pageid": 2228872,
+                "ns": 0,
+                "title": "Fileset"
+            },
+            {
+                "pageid": 32975934,
+                "ns": 0,
+                "title": "Fixed float"
+            },
+            {
+                "pageid": 38217,
+                "ns": 0,
+                "title": "Fnord"
+            },
+            {
+                "pageid": 2031371,
+                "ns": 0,
+                "title": "Footprinting"
+            },
+            {
+                "pageid": 1769652,
+                "ns": 0,
+                "title": "Future proof"
+            },
+            {
+                "pageid": 2286714,
+                "ns": 0,
+                "title": "Goal seeking"
+            },
+            {
+                "pageid": 16256311,
+                "ns": 0,
+                "title": "Granule (Oracle DBMS)"
+            },
+            {
+                "pageid": 13533,
+                "ns": 0,
+                "title": "Hacker (term)"
+            },
+            {
+                "pageid": 19005417,
+                "ns": 0,
+                "title": "Hang (computing)"
+            },
+            {
+                "pageid": 7514057,
+                "ns": 0,
+                "title": "Hardware-dependent software"
+            },
+            {
+                "pageid": 2541840,
+                "ns": 0,
+                "title": "Host signal processing"
+            },
+            {
+                "pageid": 1505382,
+                "ns": 0,
+                "title": "Hybrid computer"
+            },
+            {
+                "pageid": 407704,
+                "ns": 0,
+                "title": "Implementation"
+            },
+            {
+                "pageid": 166206,
+                "ns": 0,
+                "title": "Indirection"
+            },
+            {
+                "pageid": 2383924,
+                "ns": 0,
+                "title": "Input queue"
+            },
+            {
+                "pageid": 41285,
+                "ns": 0,
+                "title": "Interoperability"
+            },
+            {
+                "pageid": 26893458,
+                "ns": 0,
+                "title": "Interoperation"
+            },
+            {
+                "pageid": 23187722,
+                "ns": 0,
+                "title": "Interpreter directive"
+            },
+            {
+                "pageid": 15277793,
+                "ns": 0,
+                "title": "Job control (computing)"
+            },
+            {
+                "pageid": 38416738,
+                "ns": 0,
+                "title": "Komputeko"
+            },
+            {
+                "pageid": 15525006,
+                "ns": 0,
+                "title": "List of binary codes"
+            },
+            {
+                "pageid": 41341,
+                "ns": 0,
+                "title": "Machine-readable medium"
+            },
+            {
+                "pageid": 18645860,
+                "ns": 0,
+                "title": "Man-in-the-browser"
+            },
+            {
+                "pageid": 1750801,
+                "ns": 0,
+                "title": "Managed code"
+            },
+            {
+                "pageid": 41730586,
+                "ns": 0,
+                "title": "Map matching"
+            },
+            {
+                "pageid": 28268472,
+                "ns": 0,
+                "title": "Memory geometry"
+            },
+            {
+                "pageid": 64020,
+                "ns": 0,
+                "title": "Multiprocessing"
+            },
+            {
+                "pageid": 21150,
+                "ns": 0,
+                "title": "Nibble"
+            },
+            {
+                "pageid": 15050269,
+                "ns": 0,
+                "title": "Operating context"
+            },
+            {
+                "pageid": 206797,
+                "ns": 0,
+                "title": "Operating environment"
+            },
+            {
+                "pageid": 3190322,
+                "ns": 0,
+                "title": "Operating system service management"
+            },
+            {
+                "pageid": 679737,
+                "ns": 0,
+                "title": "Orchestration (computing)"
+            },
+            {
+                "pageid": 22829484,
+                "ns": 0,
+                "title": "Order code processor"
+            },
+            {
+                "pageid": 37059631,
+                "ns": 0,
+                "title": "Pairing (computing)"
+            },
+            {
+                "pageid": 498749,
+                "ns": 0,
+                "title": "Path length"
+            },
+            {
+                "pageid": 6903579,
+                "ns": 0,
+                "title": "Performance supervision system"
+            },
+            {
+                "pageid": 6025550,
+                "ns": 0,
+                "title": "Persistence (computer science)"
+            },
+            {
+                "pageid": 11848927,
+                "ns": 0,
+                "title": "Personoid"
+            },
+            {
+                "pageid": 3200685,
+                "ns": 0,
+                "title": "Pose to pose animation"
+            },
+            {
+                "pageid": 3468701,
+                "ns": 0,
+                "title": "Power user"
+            },
+            {
+                "pageid": 21557464,
+                "ns": 0,
+                "title": "Principal (computer security)"
+            },
+            {
+                "pageid": 1036490,
+                "ns": 0,
+                "title": "Print screen"
+            },
+            {
+                "pageid": 24614639,
+                "ns": 0,
+                "title": "Process supervision"
+            },
+            {
+                "pageid": 9900070,
+                "ns": 0,
+                "title": "Processing modes"
+            },
+            {
+                "pageid": 1514745,
+                "ns": 0,
+                "title": "Propagation of schema"
+            },
+            {
+                "pageid": 3923616,
+                "ns": 0,
+                "title": "Quiesce"
+            },
+            {
+                "pageid": 24327287,
+                "ns": 0,
+                "title": "Rename (computing)"
+            },
+            {
+                "pageid": 6999096,
+                "ns": 0,
+                "title": "Reset (computing)"
+            },
+            {
+                "pageid": 4703923,
+                "ns": 0,
+                "title": "Resident module"
+            },
+            {
+                "pageid": 1728365,
+                "ns": 0,
+                "title": "Resource (computing)"
+            },
+            {
+                "pageid": 192263,
+                "ns": 0,
+                "title": "Run time (program lifecycle phase)"
+            },
+            {
+                "pageid": 3482748,
+                "ns": 0,
+                "title": "Scratch space"
+            },
+            {
+                "pageid": 41685,
+                "ns": 0,
+                "title": "Security kernel"
+            },
+            {
+                "pageid": 7233280,
+                "ns": 0,
+                "title": "Semantic interoperability"
+            },
+            {
+                "pageid": 931087,
+                "ns": 0,
+                "title": "Silicon compiler"
+            },
+            {
+                "pageid": 34349525,
+                "ns": 0,
+                "title": "Social login"
+            },
+            {
+                "pageid": 44676536,
+                "ns": 0,
+                "title": "SubOS"
+            },
+            {
+                "pageid": 1780848,
+                "ns": 0,
+                "title": "System identifier"
+            },
+            {
+                "pageid": 573528,
+                "ns": 0,
+                "title": "Systems development life cycle"
+            },
+            {
+                "pageid": 1655191,
+                "ns": 0,
+                "title": "Task (computing)"
+            },
+            {
+                "pageid": 32452747,
+                "ns": 0,
+                "title": "Technical limitation"
+            },
+            {
+                "pageid": 2572635,
+                "ns": 0,
+                "title": "Technology dividend"
+            },
+            {
+                "pageid": 7570874,
+                "ns": 0,
+                "title": "Temporal isolation"
+            },
+            {
+                "pageid": 27903154,
+                "ns": 0,
+                "title": "Temporal isolation among virtual machines"
+            },
+            {
+                "pageid": 10026229,
+                "ns": 0,
+                "title": "Throttling process (computing)"
+            },
+            {
+                "pageid": 632562,
+                "ns": 0,
+                "title": "Thunk"
+            },
+            {
+                "pageid": 23082192,
+                "ns": 0,
+                "title": "Toaster (software)"
+            },
+            {
+                "pageid": 328305,
+                "ns": 0,
+                "title": "Trampoline (computing)"
+            },
+            {
+                "pageid": 7380447,
+                "ns": 0,
+                "title": "Trap (computing)"
+            },
+            {
+                "pageid": 34310144,
+                "ns": 0,
+                "title": "Unclick"
+            },
+            {
+                "pageid": 23044496,
+                "ns": 0,
+                "title": "Undecimber"
+            },
+            {
+                "pageid": 33549392,
+                "ns": 0,
+                "title": "Unexpected events"
+            },
+            {
+                "pageid": 507143,
+                "ns": 0,
+                "title": "Upgrade"
+            },
+            {
+                "pageid": 298558,
+                "ns": 0,
+                "title": "Upstream (software development)"
+            },
+            {
+                "pageid": 33841815,
+                "ns": 0,
+                "title": "Usability assurance"
+            },
+            {
+                "pageid": 33761097,
+                "ns": 0,
+                "title": "Use error"
+            },
+            {
+                "pageid": 16301990,
+                "ns": 0,
+                "title": "User (computing)"
+            },
+            {
+                "pageid": 33892552,
+                "ns": 0,
+                "title": "User control"
+            },
+            {
+                "pageid": 22017615,
+                "ns": 0,
+                "title": "Useware"
+            },
+            {
+                "pageid": 5961225,
+                "ns": 0,
+                "title": "Vanilla software"
+            },
+            {
+                "pageid": 21950208,
+                "ns": 0,
+                "title": "Viable prefix"
+            },
+            {
+                "pageid": 18311356,
+                "ns": 0,
+                "title": "Virtualization"
+            },
+            {
+                "pageid": 33425,
+                "ns": 0,
+                "title": "Word processing"
+            },
+            {
+                "pageid": 33236,
+                "ns": 0,
+                "title": "Word processor"
+            },
+            {
+                "pageid": 8975395,
+                "ns": 0,
+                "title": "Wordmark (computer hardware)"
+            },
+            {
+                "pageid": 3145562,
+                "ns": 0,
+                "title": "-zilla"
+            },
+            {
+                "pageid": 25566149,
+                "ns": 10,
+                "title": "Template:Hexadecimal table"
+            },
+            {
+                "pageid": 31556001,
+                "ns": 10,
+                "title": "Template:Numeral systems for computation"
+            }
+        ]
+    }
+}

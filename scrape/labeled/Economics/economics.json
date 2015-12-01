@@ -1,0 +1,511 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "cmcontinue": "page|47454e455241544956452045434f4e4f4d59|44877263",
+        "continue": "-||"
+    },
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 9223,
+                "ns": 0,
+                "title": "Economics"
+            },
+            {
+                "pageid": 90075,
+                "ns": 0,
+                "title": "Index of economics articles"
+            },
+            {
+                "pageid": 19280607,
+                "ns": 0,
+                "title": "Outline of economics"
+            },
+            {
+                "pageid": 2593,
+                "ns": 0,
+                "title": "Accounting"
+            },
+            {
+                "pageid": 18729692,
+                "ns": 0,
+                "title": "Additionality"
+            },
+            {
+                "pageid": 23798517,
+                "ns": 0,
+                "title": "Administered prices"
+            },
+            {
+                "pageid": 2426547,
+                "ns": 0,
+                "title": "Affective forecasting"
+            },
+            {
+                "pageid": 19197911,
+                "ns": 0,
+                "title": "Ambrosetti Forum"
+            },
+            {
+                "pageid": 25412300,
+                "ns": 0,
+                "title": "Arrow security"
+            },
+            {
+                "pageid": 30972042,
+                "ns": 0,
+                "title": "Associative economics"
+            },
+            {
+                "pageid": 38854960,
+                "ns": 0,
+                "title": "Assume a can opener"
+            },
+            {
+                "pageid": 45372224,
+                "ns": 0,
+                "title": "Asymmetric cointegration"
+            },
+            {
+                "pageid": 45526962,
+                "ns": 0,
+                "title": "Balances Mechanics"
+            },
+            {
+                "pageid": 46419405,
+                "ns": 0,
+                "title": "Barzani Balance"
+            },
+            {
+                "pageid": 46896529,
+                "ns": 0,
+                "title": "Better Than Cash Alliance"
+            },
+            {
+                "pageid": 46177544,
+                "ns": 0,
+                "title": "Bhutan GNH Index"
+            },
+            {
+                "pageid": 39250635,
+                "ns": 0,
+                "title": "Biological economics"
+            },
+            {
+                "pageid": 27878378,
+                "ns": 0,
+                "title": "Break-even"
+            },
+            {
+                "pageid": 31930856,
+                "ns": 0,
+                "title": "Bull trap"
+            },
+            {
+                "pageid": 44599406,
+                "ns": 0,
+                "title": "Calvo (staggered) contracts"
+            },
+            {
+                "pageid": 25790327,
+                "ns": 0,
+                "title": "Capital account (financial accounting)"
+            },
+            {
+                "pageid": 40508191,
+                "ns": 0,
+                "title": "Capitalist mode of production (Marxist theory)"
+            },
+            {
+                "pageid": 11153863,
+                "ns": 0,
+                "title": "Carbon price"
+            },
+            {
+                "pageid": 29875101,
+                "ns": 0,
+                "title": "Care work"
+            },
+            {
+                "pageid": 26753251,
+                "ns": 0,
+                "title": "Cash collection"
+            },
+            {
+                "pageid": 43371075,
+                "ns": 0,
+                "title": "Center for Distributive, Labor and Social Studies"
+            },
+            {
+                "pageid": 41146581,
+                "ns": 0,
+                "title": "Chartalism"
+            },
+            {
+                "pageid": 34945002,
+                "ns": 0,
+                "title": "Circular cumulative causation"
+            },
+            {
+                "pageid": 43478830,
+                "ns": 0,
+                "title": "Citizen profit"
+            },
+            {
+                "pageid": 33368883,
+                "ns": 0,
+                "title": "Classical theory of growth and stagnation"
+            },
+            {
+                "pageid": 25790552,
+                "ns": 0,
+                "title": "Commercial location development"
+            },
+            {
+                "pageid": 749691,
+                "ns": 0,
+                "title": "Community currency"
+            },
+            {
+                "pageid": 38337332,
+                "ns": 0,
+                "title": "Conflict economics"
+            },
+            {
+                "pageid": 29947659,
+                "ns": 0,
+                "title": "Confrontation analysis"
+            },
+            {
+                "pageid": 36211405,
+                "ns": 0,
+                "title": "Conspiracies against the laity"
+            },
+            {
+                "pageid": 40067609,
+                "ns": 0,
+                "title": "Constant capital"
+            },
+            {
+                "pageid": 28240525,
+                "ns": 0,
+                "title": "Constitutional economics"
+            },
+            {
+                "pageid": 39474050,
+                "ns": 0,
+                "title": "Consumer network"
+            },
+            {
+                "pageid": 41671299,
+                "ns": 0,
+                "title": "Contingent convertible bond"
+            },
+            {
+                "pageid": 24391496,
+                "ns": 0,
+                "title": "Coproduction (public services)"
+            },
+            {
+                "pageid": 48392771,
+                "ns": 0,
+                "title": "Creta association"
+            },
+            {
+                "pageid": 39806532,
+                "ns": 0,
+                "title": "Cumulative process"
+            },
+            {
+                "pageid": 42732578,
+                "ns": 0,
+                "title": "Defensive expenditures"
+            },
+            {
+                "pageid": 45717790,
+                "ns": 0,
+                "title": "Design-to-cost"
+            },
+            {
+                "pageid": 48338897,
+                "ns": 0,
+                "title": "Diluted property rights theory"
+            },
+            {
+                "pageid": 1803535,
+                "ns": 0,
+                "title": "Direct labour cost variance"
+            },
+            {
+                "pageid": 34139998,
+                "ns": 0,
+                "title": "Drama Theory"
+            },
+            {
+                "pageid": 30040514,
+                "ns": 0,
+                "title": "Easterlin hypothesis"
+            },
+            {
+                "pageid": 32078647,
+                "ns": 0,
+                "title": "Economic antisemitism"
+            },
+            {
+                "pageid": 33849304,
+                "ns": 0,
+                "title": "Economic citizenship"
+            },
+            {
+                "pageid": 26853073,
+                "ns": 0,
+                "title": "Economic Club of New York"
+            },
+            {
+                "pageid": 37906024,
+                "ns": 0,
+                "title": "Economic Consultative Committee"
+            },
+            {
+                "pageid": 44140918,
+                "ns": 0,
+                "title": "Economic corridor"
+            },
+            {
+                "pageid": 24684159,
+                "ns": 0,
+                "title": "Economic Cycle Research Institute"
+            },
+            {
+                "pageid": 148131,
+                "ns": 0,
+                "title": "Economic development"
+            },
+            {
+                "pageid": 17601160,
+                "ns": 0,
+                "title": "Economic epidemiology"
+            },
+            {
+                "pageid": 44261175,
+                "ns": 0,
+                "title": "Historical economic geography"
+            },
+            {
+                "pageid": 44260997,
+                "ns": 0,
+                "title": "Theoretical economic geography"
+            },
+            {
+                "pageid": 38776986,
+                "ns": 0,
+                "title": "Economic globalization"
+            },
+            {
+                "pageid": 19769202,
+                "ns": 0,
+                "title": "Economic graph"
+            },
+            {
+                "pageid": 25370189,
+                "ns": 0,
+                "title": "Economic integration effects"
+            },
+            {
+                "pageid": 35531391,
+                "ns": 0,
+                "title": "Economic liberalization in the post–World War II era"
+            },
+            {
+                "pageid": 216664,
+                "ns": 0,
+                "title": "Economic rent"
+            },
+            {
+                "pageid": 16971924,
+                "ns": 0,
+                "title": "Economic restructuring"
+            },
+            {
+                "pageid": 6973754,
+                "ns": 0,
+                "title": "Economic stability"
+            },
+            {
+                "pageid": 692262,
+                "ns": 0,
+                "title": "Economic system"
+            },
+            {
+                "pageid": 44467356,
+                "ns": 0,
+                "title": "Economics of Digitization"
+            },
+            {
+                "pageid": 46885960,
+                "ns": 0,
+                "title": "Economics of networks"
+            },
+            {
+                "pageid": 34288348,
+                "ns": 0,
+                "title": "Economics of science"
+            },
+            {
+                "pageid": 27692923,
+                "ns": 0,
+                "title": "Economics terminology that differs from common usage"
+            },
+            {
+                "pageid": 47731394,
+                "ns": 0,
+                "title": "Economistic fallacy"
+            },
+            {
+                "pageid": 6639133,
+                "ns": 0,
+                "title": "Economy"
+            },
+            {
+                "pageid": 20581952,
+                "ns": 0,
+                "title": "Effective unemployment rate"
+            },
+            {
+                "pageid": 44946659,
+                "ns": 0,
+                "title": "Efficiency dividend"
+            },
+            {
+                "pageid": 24650416,
+                "ns": 0,
+                "title": "Endogenous money"
+            },
+            {
+                "pageid": 3202906,
+                "ns": 0,
+                "title": "Endogenous preferences"
+            },
+            {
+                "pageid": 15322877,
+                "ns": 0,
+                "title": "Equity of condition"
+            },
+            {
+                "pageid": 35055277,
+                "ns": 0,
+                "title": "European Economic Senate"
+            },
+            {
+                "pageid": 12232846,
+                "ns": 0,
+                "title": "Ex-ante"
+            },
+            {
+                "pageid": 33311036,
+                "ns": 0,
+                "title": "Expansion path"
+            },
+            {
+                "pageid": 20622556,
+                "ns": 0,
+                "title": "Expenditure incidence"
+            },
+            {
+                "pageid": 40067623,
+                "ns": 0,
+                "title": "Exploitation of labour"
+            },
+            {
+                "pageid": 866752,
+                "ns": 0,
+                "title": "Extended order"
+            },
+            {
+                "pageid": 28077540,
+                "ns": 0,
+                "title": "Exter's Pyramid"
+            },
+            {
+                "pageid": 21472509,
+                "ns": 0,
+                "title": "Factor market"
+            },
+            {
+                "pageid": 21472557,
+                "ns": 0,
+                "title": "Factor payments"
+            },
+            {
+                "pageid": 50649,
+                "ns": 0,
+                "title": "Family and consumer science"
+            },
+            {
+                "pageid": 33183306,
+                "ns": 0,
+                "title": "Fei–Ranis model of economic growth"
+            },
+            {
+                "pageid": 161255,
+                "ns": 0,
+                "title": "Finance capitalism"
+            },
+            {
+                "pageid": 22443529,
+                "ns": 0,
+                "title": "Financial compensation"
+            },
+            {
+                "pageid": 30257336,
+                "ns": 0,
+                "title": "Fiscal space"
+            },
+            {
+                "pageid": 21534875,
+                "ns": 0,
+                "title": "Fixed exchange-rate system"
+            },
+            {
+                "pageid": 33700073,
+                "ns": 0,
+                "title": "Flypaper effect"
+            },
+            {
+                "pageid": 43478826,
+                "ns": 0,
+                "title": "Fool's Growth"
+            },
+            {
+                "pageid": 21535327,
+                "ns": 0,
+                "title": "Foreign portfolio investment"
+            },
+            {
+                "pageid": 316656,
+                "ns": 0,
+                "title": "Fourth World"
+            },
+            {
+                "pageid": 21535421,
+                "ns": 0,
+                "title": "Free contract"
+            },
+            {
+                "pageid": 43103489,
+                "ns": 0,
+                "title": "Galor-Zeira model"
+            },
+            {
+                "pageid": 11924,
+                "ns": 0,
+                "title": "Game theory"
+            },
+            {
+                "pageid": 35287503,
+                "ns": 0,
+                "title": "Gender Inequality Index"
+            }
+        ]
+    }
+}

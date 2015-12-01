@@ -1,0 +1,511 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "cmcontinue": "page|50524f445543542050524f4c494645524154494f4e0a50524f445543542050524f4c494645524154494f4e|7216047",
+        "continue": "-||"
+    },
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 18819,
+                "ns": 0,
+                "title": "Microeconomics"
+            },
+            {
+                "pageid": 42305243,
+                "ns": 0,
+                "title": "Age at risk"
+            },
+            {
+                "pageid": 8529463,
+                "ns": 0,
+                "title": "Aggregation problem"
+            },
+            {
+                "pageid": 25139025,
+                "ns": 0,
+                "title": "Amoroso–Robinson relation"
+            },
+            {
+                "pageid": 43492115,
+                "ns": 0,
+                "title": "Annual recurring revenue"
+            },
+            {
+                "pageid": 5179573,
+                "ns": 0,
+                "title": "Artificial demand"
+            },
+            {
+                "pageid": 22460873,
+                "ns": 0,
+                "title": "Asset (economics)"
+            },
+            {
+                "pageid": 43633912,
+                "ns": 0,
+                "title": "Bank number"
+            },
+            {
+                "pageid": 177698,
+                "ns": 0,
+                "title": "Behavioral economics"
+            },
+            {
+                "pageid": 47603597,
+                "ns": 0,
+                "title": "Behavioral Strategy"
+            },
+            {
+                "pageid": 38149397,
+                "ns": 0,
+                "title": "Benefit principle"
+            },
+            {
+                "pageid": 35626853,
+                "ns": 0,
+                "title": "Bertrand–Edgeworth model"
+            },
+            {
+                "pageid": 46294720,
+                "ns": 0,
+                "title": "Bliss point (economics)"
+            },
+            {
+                "pageid": 422144,
+                "ns": 0,
+                "title": "Ceteris paribus"
+            },
+            {
+                "pageid": 1172521,
+                "ns": 0,
+                "title": "Club good"
+            },
+            {
+                "pageid": 350668,
+                "ns": 0,
+                "title": "Cobb–Douglas production function"
+            },
+            {
+                "pageid": 47587204,
+                "ns": 0,
+                "title": "Collective switching"
+            },
+            {
+                "pageid": 751519,
+                "ns": 0,
+                "title": "Comparative statics"
+            },
+            {
+                "pageid": 27996428,
+                "ns": 0,
+                "title": "Conjectural variation"
+            },
+            {
+                "pageid": 827098,
+                "ns": 0,
+                "title": "Consumer sovereignty"
+            },
+            {
+                "pageid": 1630962,
+                "ns": 0,
+                "title": "Consumer surplus for software products"
+            },
+            {
+                "pageid": 232167,
+                "ns": 0,
+                "title": "Consumer choice"
+            },
+            {
+                "pageid": 5207133,
+                "ns": 0,
+                "title": "Consumption distribution"
+            },
+            {
+                "pageid": 15398838,
+                "ns": 0,
+                "title": "Contour set"
+            },
+            {
+                "pageid": 8012046,
+                "ns": 0,
+                "title": "Convex preferences"
+            },
+            {
+                "pageid": 2189949,
+                "ns": 0,
+                "title": "Corner solution"
+            },
+            {
+                "pageid": 1689345,
+                "ns": 0,
+                "title": "Cost curve"
+            },
+            {
+                "pageid": 8851100,
+                "ns": 0,
+                "title": "Customer equity"
+            },
+            {
+                "pageid": 1324669,
+                "ns": 0,
+                "title": "Dollar voting"
+            },
+            {
+                "pageid": 40994463,
+                "ns": 0,
+                "title": "Dorfman–Steiner theorem"
+            },
+            {
+                "pageid": 762246,
+                "ns": 0,
+                "title": "Economic cost"
+            },
+            {
+                "pageid": 7989588,
+                "ns": 0,
+                "title": "Economic discrimination"
+            },
+            {
+                "pageid": 31256939,
+                "ns": 0,
+                "title": "Economic region of production"
+            },
+            {
+                "pageid": 50145,
+                "ns": 0,
+                "title": "Economic surplus"
+            },
+            {
+                "pageid": 47446083,
+                "ns": 0,
+                "title": "Economies of density"
+            },
+            {
+                "pageid": 234138,
+                "ns": 0,
+                "title": "Economies of scope"
+            },
+            {
+                "pageid": 1228848,
+                "ns": 0,
+                "title": "Edgeworth's limit theorem"
+            },
+            {
+                "pageid": 171614,
+                "ns": 0,
+                "title": "Elasticity (economics)"
+            },
+            {
+                "pageid": 7306242,
+                "ns": 0,
+                "title": "Epstein–Zin preferences"
+            },
+            {
+                "pageid": 4505716,
+                "ns": 0,
+                "title": "Partial equilibrium"
+            },
+            {
+                "pageid": 46194565,
+                "ns": 0,
+                "title": "Evolution of microeconomics"
+            },
+            {
+                "pageid": 12232846,
+                "ns": 0,
+                "title": "Ex-ante"
+            },
+            {
+                "pageid": 40223685,
+                "ns": 0,
+                "title": "Excess demand function"
+            },
+            {
+                "pageid": 21359791,
+                "ns": 0,
+                "title": "Excess supply"
+            },
+            {
+                "pageid": 11231,
+                "ns": 0,
+                "title": "Factors of production"
+            },
+            {
+                "pageid": 1548897,
+                "ns": 0,
+                "title": "False economy"
+            },
+            {
+                "pageid": 3947712,
+                "ns": 0,
+                "title": "Feasibility condition"
+            },
+            {
+                "pageid": 38654709,
+                "ns": 0,
+                "title": "Forced rider"
+            },
+            {
+                "pageid": 6643997,
+                "ns": 0,
+                "title": "Foundations of Economic Analysis"
+            },
+            {
+                "pageid": 28434366,
+                "ns": 0,
+                "title": "Ghetto tax"
+            },
+            {
+                "pageid": 24283314,
+                "ns": 0,
+                "title": "Hahn's problem"
+            },
+            {
+                "pageid": 162841,
+                "ns": 0,
+                "title": "Herfindahl index"
+            },
+            {
+                "pageid": 241982,
+                "ns": 0,
+                "title": "Hit-and-run tactics"
+            },
+            {
+                "pageid": 477033,
+                "ns": 0,
+                "title": "Hoarding"
+            },
+            {
+                "pageid": 3394448,
+                "ns": 0,
+                "title": "Hotelling's lemma"
+            },
+            {
+                "pageid": 429544,
+                "ns": 0,
+                "title": "Household production function"
+            },
+            {
+                "pageid": 3624256,
+                "ns": 0,
+                "title": "In kind"
+            },
+            {
+                "pageid": 422023,
+                "ns": 0,
+                "title": "Incentive"
+            },
+            {
+                "pageid": 27960970,
+                "ns": 0,
+                "title": "Income in kind"
+            },
+            {
+                "pageid": 45586,
+                "ns": 0,
+                "title": "Indifference curve"
+            },
+            {
+                "pageid": 21818736,
+                "ns": 0,
+                "title": "Introduction to Economic Analysis"
+            },
+            {
+                "pageid": 9625257,
+                "ns": 0,
+                "title": "Inventory analysis"
+            },
+            {
+                "pageid": 1301548,
+                "ns": 0,
+                "title": "Isocost"
+            },
+            {
+                "pageid": 18564513,
+                "ns": 0,
+                "title": "Isoelastic utility"
+            },
+            {
+                "pageid": 1158226,
+                "ns": 0,
+                "title": "Isovalue lines"
+            },
+            {
+                "pageid": 588606,
+                "ns": 0,
+                "title": "Law of demand"
+            },
+            {
+                "pageid": 1663747,
+                "ns": 0,
+                "title": "Lerner index"
+            },
+            {
+                "pageid": 4308467,
+                "ns": 0,
+                "title": "Lexicographic preferences"
+            },
+            {
+                "pageid": 21536356,
+                "ns": 0,
+                "title": "List of production functions"
+            },
+            {
+                "pageid": 3754206,
+                "ns": 0,
+                "title": "Local nonsatiation"
+            },
+            {
+                "pageid": 28978072,
+                "ns": 0,
+                "title": "Long-run cost curves"
+            },
+            {
+                "pageid": 18624,
+                "ns": 0,
+                "title": "Loyalty program"
+            },
+            {
+                "pageid": 10848678,
+                "ns": 0,
+                "title": "Mandeville's paradox"
+            },
+            {
+                "pageid": 325499,
+                "ns": 0,
+                "title": "Marginal cost"
+            },
+            {
+                "pageid": 27940157,
+                "ns": 0,
+                "title": "Marginal factor cost"
+            },
+            {
+                "pageid": 19466946,
+                "ns": 0,
+                "title": "Marginal profit"
+            },
+            {
+                "pageid": 3785733,
+                "ns": 0,
+                "title": "Marginal rate of technical substitution"
+            },
+            {
+                "pageid": 1280458,
+                "ns": 0,
+                "title": "Marginal revenue"
+            },
+            {
+                "pageid": 21586378,
+                "ns": 0,
+                "title": "Market demand schedule"
+            },
+            {
+                "pageid": 3294382,
+                "ns": 0,
+                "title": "Marketing experimentation"
+            },
+            {
+                "pageid": 27178989,
+                "ns": 0,
+                "title": "Markup rule"
+            },
+            {
+                "pageid": 1024314,
+                "ns": 0,
+                "title": "Mental accounting"
+            },
+            {
+                "pageid": 2134402,
+                "ns": 0,
+                "title": "Microeconomic reform"
+            },
+            {
+                "pageid": 9230960,
+                "ns": 0,
+                "title": "Minimum efficient scale"
+            },
+            {
+                "pageid": 5774758,
+                "ns": 0,
+                "title": "Missing market"
+            },
+            {
+                "pageid": 2159388,
+                "ns": 0,
+                "title": "Mohring effect"
+            },
+            {
+                "pageid": 3754390,
+                "ns": 0,
+                "title": "Monotone preferences"
+            },
+            {
+                "pageid": 6026198,
+                "ns": 0,
+                "title": "Monty Hall problem"
+            },
+            {
+                "pageid": 9572650,
+                "ns": 0,
+                "title": "National Competition Policy (Australia)"
+            },
+            {
+                "pageid": 17401600,
+                "ns": 0,
+                "title": "Necessity good"
+            },
+            {
+                "pageid": 1490201,
+                "ns": 0,
+                "title": "Offer curve"
+            },
+            {
+                "pageid": 180782,
+                "ns": 0,
+                "title": "Oligopsony"
+            },
+            {
+                "pageid": 45528,
+                "ns": 0,
+                "title": "Opportunity cost"
+            },
+            {
+                "pageid": 255625,
+                "ns": 0,
+                "title": "Outline of industrial organization"
+            },
+            {
+                "pageid": 20467381,
+                "ns": 0,
+                "title": "Overchoice"
+            },
+            {
+                "pageid": 1472653,
+                "ns": 0,
+                "title": "Pork cycle"
+            },
+            {
+                "pageid": 28737247,
+                "ns": 0,
+                "title": "Preference (economics)"
+            },
+            {
+                "pageid": 38149354,
+                "ns": 0,
+                "title": "Preference revelation"
+            },
+            {
+                "pageid": 156259,
+                "ns": 0,
+                "title": "Price discrimination"
+            },
+            {
+                "pageid": 3062911,
+                "ns": 0,
+                "title": "Price signal"
+            }
+        ]
+    }
+}

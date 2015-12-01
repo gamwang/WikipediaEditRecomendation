@@ -1,0 +1,227 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 33332909,
+                "ns": 0,
+                "title": "Computer professional"
+            },
+            {
+                "pageid": 328784,
+                "ns": 0,
+                "title": "Computer scientist"
+            },
+            {
+                "pageid": 161935,
+                "ns": 0,
+                "title": "Animator"
+            },
+            {
+                "pageid": 2120433,
+                "ns": 0,
+                "title": "Application analyst"
+            },
+            {
+                "pageid": 631159,
+                "ns": 0,
+                "title": "Art director"
+            },
+            {
+                "pageid": 46951280,
+                "ns": 0,
+                "title": "Audio designer"
+            },
+            {
+                "pageid": 1579278,
+                "ns": 0,
+                "title": "Business analyst"
+            },
+            {
+                "pageid": 11378088,
+                "ns": 0,
+                "title": "Certified software manager"
+            },
+            {
+                "pageid": 46947088,
+                "ns": 0,
+                "title": "CG Artist"
+            },
+            {
+                "pageid": 47249681,
+                "ns": 0,
+                "title": "Character Technical Director"
+            },
+            {
+                "pageid": 3863834,
+                "ns": 0,
+                "title": "Chief networking officer"
+            },
+            {
+                "pageid": 3980048,
+                "ns": 0,
+                "title": "Computational scientist"
+            },
+            {
+                "pageid": 4810981,
+                "ns": 0,
+                "title": "Computer operator"
+            },
+            {
+                "pageid": 4820337,
+                "ns": 0,
+                "title": "Computer repair technician"
+            },
+            {
+                "pageid": 40948,
+                "ns": 0,
+                "title": "Configuration management"
+            },
+            {
+                "pageid": 47341258,
+                "ns": 0,
+                "title": "Data janitor"
+            },
+            {
+                "pageid": 35458904,
+                "ns": 0,
+                "title": "Data science"
+            },
+            {
+                "pageid": 12487489,
+                "ns": 0,
+                "title": "Data wrangling"
+            },
+            {
+                "pageid": 254789,
+                "ns": 0,
+                "title": "Database administrator"
+            },
+            {
+                "pageid": 5269823,
+                "ns": 0,
+                "title": "Enterprise architect"
+            },
+            {
+                "pageid": 311632,
+                "ns": 0,
+                "title": "Game programmer"
+            },
+            {
+                "pageid": 1571880,
+                "ns": 0,
+                "title": "Graphic designer"
+            },
+            {
+                "pageid": 2471540,
+                "ns": 0,
+                "title": "Hacker (computer security)"
+            },
+            {
+                "pageid": 44067035,
+                "ns": 0,
+                "title": "List of Computer Security Certifications"
+            },
+            {
+                "pageid": 1595155,
+                "ns": 0,
+                "title": "Network administrator"
+            },
+            {
+                "pageid": 23716,
+                "ns": 0,
+                "title": "Programmer"
+            },
+            {
+                "pageid": 239050,
+                "ns": 0,
+                "title": "Project manager"
+            },
+            {
+                "pageid": 46948113,
+                "ns": 0,
+                "title": "QA & UX Manager"
+            },
+            {
+                "pageid": 33510664,
+                "ns": 0,
+                "title": "Silicon Milkroundabout"
+            },
+            {
+                "pageid": 3710585,
+                "ns": 0,
+                "title": "Software analyst"
+            },
+            {
+                "pageid": 223325,
+                "ns": 0,
+                "title": "Software design"
+            },
+            {
+                "pageid": 179683,
+                "ns": 0,
+                "title": "Software developer"
+            },
+            {
+                "pageid": 248932,
+                "ns": 0,
+                "title": "Software development"
+            },
+            {
+                "pageid": 90471,
+                "ns": 0,
+                "title": "Software engineer"
+            },
+            {
+                "pageid": 29090,
+                "ns": 0,
+                "title": "Software testing"
+            },
+            {
+                "pageid": 43041875,
+                "ns": 0,
+                "title": "Test Environment Management"
+            },
+            {
+                "pageid": 154985,
+                "ns": 0,
+                "title": "System administrator"
+            },
+            {
+                "pageid": 12098689,
+                "ns": 0,
+                "title": "Systems analyst"
+            },
+            {
+                "pageid": 2497175,
+                "ns": 0,
+                "title": "Systems architect"
+            },
+            {
+                "pageid": 365485,
+                "ns": 0,
+                "title": "Technical writer"
+            },
+            {
+                "pageid": 460187,
+                "ns": 0,
+                "title": "Web developer"
+            },
+            {
+                "pageid": 6783407,
+                "ns": 0,
+                "title": "Web operations"
+            },
+            {
+                "pageid": 294834,
+                "ns": 0,
+                "title": "Webmaster"
+            },
+            {
+                "pageid": 7087967,
+                "ns": 0,
+                "title": "Website content writer"
+            }
+        ]
+    }
+}
