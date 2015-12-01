@@ -1,0 +1,997 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 77776,
+                "ns": 0,
+                "title": "All Fours"
+            },
+            {
+                "pageid": 1884938,
+                "ns": 0,
+                "title": "Baker's Dozen (solitaire)"
+            },
+            {
+                "pageid": 1796590,
+                "ns": 0,
+                "title": "Bid whist"
+            },
+            {
+                "pageid": 3981,
+                "ns": 0,
+                "title": "Blackjack"
+            },
+            {
+                "pageid": 87099,
+                "ns": 0,
+                "title": "Canasta"
+            },
+            {
+                "pageid": 1216506,
+                "ns": 0,
+                "title": "Clock Patience"
+            },
+            {
+                "pageid": 3995,
+                "ns": 0,
+                "title": "Contract bridge"
+            },
+            {
+                "pageid": 5687419,
+                "ns": 0,
+                "title": "Contract rummy"
+            },
+            {
+                "pageid": 163613,
+                "ns": 0,
+                "title": "Crazy Eights"
+            },
+            {
+                "pageid": 40875921,
+                "ns": 0,
+                "title": "Cuttle"
+            },
+            {
+                "pageid": 6204231,
+                "ns": 0,
+                "title": "Dummy rummy"
+            },
+            {
+                "pageid": 47711,
+                "ns": 0,
+                "title": "FreeCell"
+            },
+            {
+                "pageid": 54961,
+                "ns": 0,
+                "title": "Gin rummy"
+            },
+            {
+                "pageid": 13829,
+                "ns": 0,
+                "title": "Hearts"
+            },
+            {
+                "pageid": 37282,
+                "ns": 0,
+                "title": "Klondike (solitaire)"
+            },
+            {
+                "pageid": 6571004,
+                "ns": 0,
+                "title": "Knock-out Whist"
+            },
+            {
+                "pageid": 3694022,
+                "ns": 0,
+                "title": "Liverpool rummy"
+            },
+            {
+                "pageid": 8749441,
+                "ns": 0,
+                "title": "Mille (card game)"
+            },
+            {
+                "pageid": 2219068,
+                "ns": 0,
+                "title": "Ruff and Honours"
+            },
+            {
+                "pageid": 1217826,
+                "ns": 0,
+                "title": "Shanghai rum"
+            },
+            {
+                "pageid": 220523,
+                "ns": 0,
+                "title": "Spades"
+            },
+            {
+                "pageid": 1421628,
+                "ns": 0,
+                "title": "Three-Handed Whist"
+            },
+            {
+                "pageid": 42439377,
+                "ns": 0,
+                "title": "Trump Suit"
+            },
+            {
+                "pageid": 33062,
+                "ns": 0,
+                "title": "Whist"
+            },
+            {
+                "pageid": 16017661,
+                "ns": 0,
+                "title": "Dedicated deck card game"
+            },
+            {
+                "pageid": 526220,
+                "ns": 0,
+                "title": "1000 Blank White Cards"
+            },
+            {
+                "pageid": 19375964,
+                "ns": 0,
+                "title": "6 Nimmt!"
+            },
+            {
+                "pageid": 32375158,
+                "ns": 0,
+                "title": "7 Wonders (board game)"
+            },
+            {
+                "pageid": 2412581,
+                "ns": 0,
+                "title": "Alpha Blitz"
+            },
+            {
+                "pageid": 44941445,
+                "ns": 0,
+                "title": "Aluette"
+            },
+            {
+                "pageid": 36304564,
+                "ns": 0,
+                "title": "Ambraser Hofjagdspiel"
+            },
+            {
+                "pageid": 277985,
+                "ns": 0,
+                "title": "Apples to Apples"
+            },
+            {
+                "pageid": 1386755,
+                "ns": 0,
+                "title": "Aquarius (game)"
+            },
+            {
+                "pageid": 5852738,
+                "ns": 0,
+                "title": "Armchair Cricket"
+            },
+            {
+                "pageid": 21549507,
+                "ns": 0,
+                "title": "Army of Zero"
+            },
+            {
+                "pageid": 46610206,
+                "ns": 0,
+                "title": "As-Nas"
+            },
+            {
+                "pageid": 1459412,
+                "ns": 0,
+                "title": "Bang! (card game)"
+            },
+            {
+                "pageid": 17440981,
+                "ns": 0,
+                "title": "Baseball (card game)"
+            },
+            {
+                "pageid": 5506419,
+                "ns": 0,
+                "title": "Battle Cattle: The Card Game"
+            },
+            {
+                "pageid": 3250599,
+                "ns": 0,
+                "title": "Beatdown"
+            },
+            {
+                "pageid": 1588750,
+                "ns": 0,
+                "title": "Before I Kill You, Mr. Bond"
+            },
+            {
+                "pageid": 7426818,
+                "ns": 0,
+                "title": "Blue Moon (game)"
+            },
+            {
+                "pageid": 832065,
+                "ns": 0,
+                "title": "Bohnanza"
+            },
+            {
+                "pageid": 1465366,
+                "ns": 0,
+                "title": "Brawl (game)"
+            },
+            {
+                "pageid": 1342995,
+                "ns": 0,
+                "title": "Call of Cthulhu: The Card Game"
+            },
+            {
+                "pageid": 5506368,
+                "ns": 0,
+                "title": "Car Wars The Card Game"
+            },
+            {
+                "pageid": 32047012,
+                "ns": 0,
+                "title": "Cards Against Humanity"
+            },
+            {
+                "pageid": 10561764,
+                "ns": 0,
+                "title": "Castle (card game)"
+            },
+            {
+                "pageid": 8319642,
+                "ns": 0,
+                "title": "Catan Card Game"
+            },
+            {
+                "pageid": 1455586,
+                "ns": 0,
+                "title": "Chez Geek"
+            },
+            {
+                "pageid": 693503,
+                "ns": 0,
+                "title": "Chrononauts"
+            },
+            {
+                "pageid": 1452311,
+                "ns": 0,
+                "title": "Citadels (card game)"
+            },
+            {
+                "pageid": 13808764,
+                "ns": 0,
+                "title": "Civilization: The Card Game"
+            },
+            {
+                "pageid": 19573896,
+                "ns": 0,
+                "title": "Cluedo Card Game"
+            },
+            {
+                "pageid": 11353078,
+                "ns": 0,
+                "title": "Coloretto"
+            },
+            {
+                "pageid": 1303442,
+                "ns": 0,
+                "title": "Crash! The bankrupt game"
+            },
+            {
+                "pageid": 1982639,
+                "ns": 0,
+                "title": "Cthulhu 500"
+            },
+            {
+                "pageid": 48379970,
+                "ns": 0,
+                "title": "Cul-de-sac conquest"
+            },
+            {
+                "pageid": 14376585,
+                "ns": 0,
+                "title": "Diamant (board game)"
+            },
+            {
+                "pageid": 43929410,
+                "ns": 0,
+                "title": "Doctor Who: The Card Game"
+            },
+            {
+                "pageid": 20092979,
+                "ns": 0,
+                "title": "Dominion (card game)"
+            },
+            {
+                "pageid": 3243502,
+                "ns": 0,
+                "title": "Down with the King (game)"
+            },
+            {
+                "pageid": 11733074,
+                "ns": 0,
+                "title": "Dungeoneer (game)"
+            },
+            {
+                "pageid": 3515431,
+                "ns": 0,
+                "title": "Dutch Blitz"
+            },
+            {
+                "pageid": 507450,
+                "ns": 0,
+                "title": "Dvorak (game)"
+            },
+            {
+                "pageid": 885162,
+                "ns": 0,
+                "title": "Echelon (card game)"
+            },
+            {
+                "pageid": 4583071,
+                "ns": 0,
+                "title": "Experiment (game)"
+            },
+            {
+                "pageid": 45187903,
+                "ns": 0,
+                "title": "Exploding Kittens"
+            },
+            {
+                "pageid": 21416230,
+                "ns": 0,
+                "title": "Express Monopoly"
+            },
+            {
+                "pageid": 30390416,
+                "ns": 0,
+                "title": "Fairy Tale (game)"
+            },
+            {
+                "pageid": 2419337,
+                "ns": 0,
+                "title": "Falling (game)"
+            },
+            {
+                "pageid": 11277150,
+                "ns": 0,
+                "title": "Familienbande"
+            },
+            {
+                "pageid": 620225,
+                "ns": 0,
+                "title": "Family Business (game)"
+            },
+            {
+                "pageid": 2407682,
+                "ns": 0,
+                "title": "Fightball"
+            },
+            {
+                "pageid": 9096249,
+                "ns": 0,
+                "title": "Filthy Rich (game)"
+            },
+            {
+                "pageid": 102380,
+                "ns": 0,
+                "title": "Flinch (card game)"
+            },
+            {
+                "pageid": 558683,
+                "ns": 0,
+                "title": "Fluxx"
+            },
+            {
+                "pageid": 2571817,
+                "ns": 0,
+                "title": "Free Parking"
+            },
+            {
+                "pageid": 26810578,
+                "ns": 0,
+                "title": "Gambit (strategy card game)"
+            },
+            {
+                "pageid": 8972827,
+                "ns": 0,
+                "title": "The Game of Life Card Game"
+            },
+            {
+                "pageid": 761835,
+                "ns": 0,
+                "title": "A Game of Thrones (card game)"
+            },
+            {
+                "pageid": 44335004,
+                "ns": 0,
+                "title": "Ganjapa"
+            },
+            {
+                "pageid": 5778510,
+                "ns": 0,
+                "title": "Ganjifa"
+            },
+            {
+                "pageid": 7118498,
+                "ns": 0,
+                "title": "Girl Genius: The Works"
+            },
+            {
+                "pageid": 732414,
+                "ns": 0,
+                "title": "Give Me the Brain"
+            },
+            {
+                "pageid": 20749958,
+                "ns": 0,
+                "title": "Gloom (card game)"
+            },
+            {
+                "pageid": 1215286,
+                "ns": 0,
+                "title": "Gnav"
+            },
+            {
+                "pageid": 1537237,
+                "ns": 0,
+                "title": "Gother Than Thou"
+            },
+            {
+                "pageid": 2015246,
+                "ns": 0,
+                "title": "Grass (card game)"
+            },
+            {
+                "pageid": 5419176,
+                "ns": 0,
+                "title": "Grave Robbers from Outer Space"
+            },
+            {
+                "pageid": 1847348,
+                "ns": 0,
+                "title": "The Great Dalmuti"
+            },
+            {
+                "pageid": 900730,
+                "ns": 0,
+                "title": "Guillotine (game)"
+            },
+            {
+                "pageid": 1476666,
+                "ns": 0,
+                "title": "Hacker (card game)"
+            },
+            {
+                "pageid": 43516791,
+                "ns": 0,
+                "title": "Hanabi (card game)"
+            },
+            {
+                "pageid": 645636,
+                "ns": 0,
+                "title": "Happy Families"
+            },
+            {
+                "pageid": 43235193,
+                "ns": 0,
+                "title": "Havok & Hijinks"
+            },
+            {
+                "pageid": 2915431,
+                "ns": 0,
+                "title": "Heavy Gear Fighter"
+            },
+            {
+                "pageid": 12827740,
+                "ns": 0,
+                "title": "High School Drama!"
+            },
+            {
+                "pageid": 43931166,
+                "ns": 0,
+                "title": "Hobbit Tales"
+            },
+            {
+                "pageid": 18850007,
+                "ns": 0,
+                "title": "Hofamterspiel"
+            },
+            {
+                "pageid": 450965,
+                "ns": 0,
+                "title": "Illuminati (game)"
+            },
+            {
+                "pageid": 12166935,
+                "ns": 0,
+                "title": "In a Pickle (card game)"
+            },
+            {
+                "pageid": 8163543,
+                "ns": 0,
+                "title": "Infinite Armies"
+            },
+            {
+                "pageid": 14001893,
+                "ns": 0,
+                "title": "It's Alive! (card game)"
+            },
+            {
+                "pageid": 1854678,
+                "ns": 0,
+                "title": "Jasmine: The Battle for the Mid-Realm"
+            },
+            {
+                "pageid": 31601065,
+                "ns": 0,
+                "title": "Jeu Royal de la Guerre"
+            },
+            {
+                "pageid": 45089,
+                "ns": 0,
+                "title": "Karuta"
+            },
+            {
+                "pageid": 1585540,
+                "ns": 0,
+                "title": "Killer Bunnies and the Quest for the Magic Carrot"
+            },
+            {
+                "pageid": 7493353,
+                "ns": 0,
+                "title": "Krypto (game)"
+            },
+            {
+                "pageid": 31423893,
+                "ns": 0,
+                "title": "Launch Pad (card game)"
+            },
+            {
+                "pageid": 971127,
+                "ns": 0,
+                "title": "Ligretto"
+            },
+            {
+                "pageid": 1978376,
+                "ns": 0,
+                "title": "Linq (card game)"
+            },
+            {
+                "pageid": 34606509,
+                "ns": 0,
+                "title": "List of dedicated deck card games"
+            },
+            {
+                "pageid": 4832552,
+                "ns": 0,
+                "title": "Lord of the Fries"
+            },
+            {
+                "pageid": 42355495,
+                "ns": 0,
+                "title": "The Lord of the Rings: The Card Game"
+            },
+            {
+                "pageid": 291194,
+                "ns": 0,
+                "title": "Lost Cities"
+            },
+            {
+                "pageid": 5198123,
+                "ns": 0,
+                "title": "Lotería"
+            },
+            {
+                "pageid": 16145401,
+                "ns": 0,
+                "title": "Luck Plus"
+            },
+            {
+                "pageid": 732325,
+                "ns": 0,
+                "title": "Lunch Money (game)"
+            },
+            {
+                "pageid": 5777348,
+                "ns": 0,
+                "title": "The Mad Magazine Card Game"
+            },
+            {
+                "pageid": 14694850,
+                "ns": 0,
+                "title": "Mag Blast"
+            },
+            {
+                "pageid": 33512118,
+                "ns": 0,
+                "title": "Mage Wars"
+            },
+            {
+                "pageid": 6161709,
+                "ns": 0,
+                "title": "Make-A-Million"
+            },
+            {
+                "pageid": 42185839,
+                "ns": 0,
+                "title": "Mascarade"
+            },
+            {
+                "pageid": 13015737,
+                "ns": 0,
+                "title": "Maths24"
+            },
+            {
+                "pageid": 88255,
+                "ns": 0,
+                "title": "Mille Bornes"
+            },
+            {
+                "pageid": 2535952,
+                "ns": 0,
+                "title": "Minchiate"
+            },
+            {
+                "pageid": 1550962,
+                "ns": 0,
+                "title": "Modern Art (game)"
+            },
+            {
+                "pageid": 21374851,
+                "ns": 0,
+                "title": "Monopoly Deal"
+            },
+            {
+                "pageid": 3572706,
+                "ns": 0,
+                "title": "Monopoly: The Card Game"
+            },
+            {
+                "pageid": 900165,
+                "ns": 0,
+                "title": "Munchkin (card game)"
+            },
+            {
+                "pageid": 44996189,
+                "ns": 0,
+                "title": "Naval War"
+            },
+            {
+                "pageid": 22469416,
+                "ns": 0,
+                "title": "No Thanks! (game)"
+            },
+            {
+                "pageid": 595142,
+                "ns": 0,
+                "title": "Nuclear War (card game)"
+            },
+            {
+                "pageid": 7004540,
+                "ns": 0,
+                "title": "O'NO 99"
+            },
+            {
+                "pageid": 4468946,
+                "ns": 0,
+                "title": "Once Upon a Time (game)"
+            },
+            {
+                "pageid": 19717153,
+                "ns": 0,
+                "title": "Pecking Order (game)"
+            },
+            {
+                "pageid": 14592106,
+                "ns": 0,
+                "title": "The Perfect Present"
+            },
+            {
+                "pageid": 3834045,
+                "ns": 0,
+                "title": "Phase 10"
+            },
+            {
+                "pageid": 6568130,
+                "ns": 0,
+                "title": "Pimp: The Backhanding"
+            },
+            {
+                "pageid": 264517,
+                "ns": 0,
+                "title": "Pit (game)"
+            },
+            {
+                "pageid": 9414953,
+                "ns": 0,
+                "title": "Pivot (card game)"
+            },
+            {
+                "pageid": 45646754,
+                "ns": 0,
+                "title": "Projective Set (game)"
+            },
+            {
+                "pageid": 35623811,
+                "ns": 0,
+                "title": "Puzzle Strike: Bag of Chips"
+            },
+            {
+                "pageid": 1217714,
+                "ns": 0,
+                "title": "Quiddler"
+            },
+            {
+                "pageid": 20094774,
+                "ns": 0,
+                "title": "Race for the Galaxy"
+            },
+            {
+                "pageid": 5469277,
+                "ns": 0,
+                "title": "Rack-O"
+            },
+            {
+                "pageid": 21698876,
+                "ns": 0,
+                "title": "Rage (trick-taking card game)"
+            },
+            {
+                "pageid": 4577302,
+                "ns": 0,
+                "title": "Raise the Roof (card game)"
+            },
+            {
+                "pageid": 9861924,
+                "ns": 0,
+                "title": "Rat-a-Tat Cat"
+            },
+            {
+                "pageid": 19150906,
+                "ns": 0,
+                "title": "Reels & Deals: The Movie-Making Card Game"
+            },
+            {
+                "pageid": 32738976,
+                "ns": 0,
+                "title": "Rejection Therapy"
+            },
+            {
+                "pageid": 2393676,
+                "ns": 0,
+                "title": "Renfield (card game)"
+            },
+            {
+                "pageid": 29680547,
+                "ns": 0,
+                "title": "The Rivals for Catan"
+            },
+            {
+                "pageid": 773607,
+                "ns": 0,
+                "title": "Rook (card game)"
+            },
+            {
+                "pageid": 21813067,
+                "ns": 0,
+                "title": "Saboteur (card game)"
+            },
+            {
+                "pageid": 31971153,
+                "ns": 0,
+                "title": "Saboteur 2"
+            },
+            {
+                "pageid": 1454389,
+                "ns": 0,
+                "title": "San Juan (card game)"
+            },
+            {
+                "pageid": 12207510,
+                "ns": 0,
+                "title": "Schotten-Totten"
+            },
+            {
+                "pageid": 35459458,
+                "ns": 0,
+                "title": "Sentinels of the Multiverse"
+            },
+            {
+                "pageid": 29538,
+                "ns": 0,
+                "title": "Set (game)"
+            },
+            {
+                "pageid": 12085435,
+                "ns": 0,
+                "title": "Sixteen (card game)"
+            },
+            {
+                "pageid": 2049290,
+                "ns": 0,
+                "title": "Skip-Bo"
+            },
+            {
+                "pageid": 19576477,
+                "ns": 0,
+                "title": "Snout!"
+            },
+            {
+                "pageid": 23599829,
+                "ns": 0,
+                "title": "Spank the monkey"
+            },
+            {
+                "pageid": 3089980,
+                "ns": 0,
+                "title": "Star Fleet Battle Force"
+            },
+            {
+                "pageid": 41597417,
+                "ns": 0,
+                "title": "Star Wars: The Card Game"
+            },
+            {
+                "pageid": 6059864,
+                "ns": 0,
+                "title": "Starship Catan"
+            },
+            {
+                "pageid": 5155464,
+                "ns": 0,
+                "title": "Strange Synergy"
+            },
+            {
+                "pageid": 33326600,
+                "ns": 0,
+                "title": "Straw (card game)"
+            },
+            {
+                "pageid": 14232381,
+                "ns": 0,
+                "title": "Survival of the Witless"
+            },
+            {
+                "pageid": 46371268,
+                "ns": 0,
+                "title": "Swipe it! Take what's yours... (card game)"
+            },
+            {
+                "pageid": 19133104,
+                "ns": 0,
+                "title": "Take the Train"
+            },
+            {
+                "pageid": 44626,
+                "ns": 0,
+                "title": "Tarocchini"
+            },
+            {
+                "pageid": 47451964,
+                "ns": 0,
+                "title": "The Contender: The Game of Political Debate"
+            },
+            {
+                "pageid": 3849471,
+                "ns": 0,
+                "title": "Three-Dragon Ante"
+            },
+            {
+                "pageid": 31190180,
+                "ns": 0,
+                "title": "Thunderstone (card game)"
+            },
+            {
+                "pageid": 5741326,
+                "ns": 0,
+                "title": "Touring (card game)"
+            },
+            {
+                "pageid": 17064550,
+                "ns": 0,
+                "title": "Tribbles (game)"
+            },
+            {
+                "pageid": 600341,
+                "ns": 0,
+                "title": "Triology"
+            },
+            {
+                "pageid": 6406495,
+                "ns": 0,
+                "title": "Unexploded Cow"
+            },
+            {
+                "pageid": 154302,
+                "ns": 0,
+                "title": "Uno (card game)"
+            },
+            {
+                "pageid": 22937718,
+                "ns": 0,
+                "title": "Uno H2O"
+            },
+            {
+                "pageid": 169438,
+                "ns": 0,
+                "title": "Up Front"
+            },
+            {
+                "pageid": 495628,
+                "ns": 0,
+                "title": "Uta-garuta"
+            },
+            {
+                "pageid": 10442112,
+                "ns": 0,
+                "title": "Vampire (card game)"
+            },
+            {
+                "pageid": 2421859,
+                "ns": 0,
+                "title": "The Very Clever Pipe Game"
+            },
+            {
+                "pageid": 32633148,
+                "ns": 0,
+                "title": "Viewpoint (card game)"
+            },
+            {
+                "pageid": 43543995,
+                "ns": 0,
+                "title": "Warhammer 40,000: Conquest"
+            },
+            {
+                "pageid": 32206413,
+                "ns": 0,
+                "title": "Warhammer: Invasion"
+            },
+            {
+                "pageid": 3059541,
+                "ns": 0,
+                "title": "Waterworks (card game)"
+            },
+            {
+                "pageid": 8693248,
+                "ns": 0,
+                "title": "Who's the Ass?"
+            },
+            {
+                "pageid": 3597363,
+                "ns": 0,
+                "title": "Whot!"
+            },
+            {
+                "pageid": 9005184,
+                "ns": 0,
+                "title": "Wings of War"
+            },
+            {
+                "pageid": 659688,
+                "ns": 0,
+                "title": "Wyatt Earp (card game)"
+            },
+            {
+                "pageid": 26449804,
+                "ns": 0,
+                "title": "X610Z"
+            },
+            {
+                "pageid": 5365464,
+                "ns": 0,
+                "title": "Xactika"
+            },
+            {
+                "pageid": 5436421,
+                "ns": 0,
+                "title": "You're Bluffing"
+            }
+        ]
+    }
+}

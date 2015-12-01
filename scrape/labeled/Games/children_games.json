@@ -1,9 +1,5 @@
 {
     "batchcomplete": "",
-    "continue": {
-        "cmcontinue": "page|46495245204f4e20544845204d4f554e5441494e202847414d4529|32485806",
-        "continue": "-||"
-    },
     "query": {
         "categorymembers": [
             {
@@ -255,6 +251,731 @@
                 "pageid": 8943937,
                 "ns": 0,
                 "title": "Fingerplay"
+            },
+            {
+                "pageid": 32485806,
+                "ns": 0,
+                "title": "Fire on the Mountain (game)"
+            },
+            {
+                "pageid": 43039048,
+                "ns": 0,
+                "title": "Five Little Monkeys"
+            },
+            {
+                "pageid": 7587648,
+                "ns": 0,
+                "title": "Fizz buzz"
+            },
+            {
+                "pageid": 2223491,
+                "ns": 0,
+                "title": "Follow the leader (game)"
+            },
+            {
+                "pageid": 3281793,
+                "ns": 0,
+                "title": "Forty forty"
+            },
+            {
+                "pageid": 8618840,
+                "ns": 0,
+                "title": "Four corners (game)"
+            },
+            {
+                "pageid": 893708,
+                "ns": 0,
+                "title": "Four square"
+            },
+            {
+                "pageid": 2033364,
+                "ns": 0,
+                "title": "Fruit Basket Turnover"
+            },
+            {
+                "pageid": 11878832,
+                "ns": 0,
+                "title": "Fukuwarai"
+            },
+            {
+                "pageid": 17313618,
+                "ns": 0,
+                "title": "Funnel ball"
+            },
+            {
+                "pageid": 3333773,
+                "ns": 0,
+                "title": "Ga-ga"
+            },
+            {
+                "pageid": 9967751,
+                "ns": 0,
+                "title": "Game of graces"
+            },
+            {
+                "pageid": 14976769,
+                "ns": 0,
+                "title": "Geography (game)"
+            },
+            {
+                "pageid": 34919764,
+                "ns": 0,
+                "title": "Giddy-gaddy"
+            },
+            {
+                "pageid": 6667862,
+                "ns": 0,
+                "title": "Gonggi"
+            },
+            {
+                "pageid": 494767,
+                "ns": 0,
+                "title": "Hana Ichi Monme"
+            },
+            {
+                "pageid": 14462,
+                "ns": 0,
+                "title": "Hangman (game)"
+            },
+            {
+                "pageid": 1524271,
+                "ns": 0,
+                "title": "He loves me... he loves me not"
+            },
+            {
+                "pageid": 43543526,
+                "ns": 0,
+                "title": "Here Comes an Old Soldier from Botany Bay"
+            },
+            {
+                "pageid": 39299,
+                "ns": 0,
+                "title": "Hide-and-seek"
+            },
+            {
+                "pageid": 38905307,
+                "ns": 0,
+                "title": "Hill, dill, over the hill"
+            },
+            {
+                "pageid": 1782102,
+                "ns": 0,
+                "title": "Hoop rolling"
+            },
+            {
+                "pageid": 324066,
+                "ns": 0,
+                "title": "Hopscotch"
+            },
+            {
+                "pageid": 8421510,
+                "ns": 0,
+                "title": "Hot lava (game)"
+            },
+            {
+                "pageid": 12682501,
+                "ns": 0,
+                "title": "Hot potato (game)"
+            },
+            {
+                "pageid": 11094193,
+                "ns": 0,
+                "title": "House (game)"
+            },
+            {
+                "pageid": 8715184,
+                "ns": 0,
+                "title": "Huckle buckle beanstalk"
+            },
+            {
+                "pageid": 331369,
+                "ns": 0,
+                "title": "I spy"
+            },
+            {
+                "pageid": 11968827,
+                "ns": 0,
+                "title": "I've got your nose"
+            },
+            {
+                "pageid": 357125,
+                "ns": 0,
+                "title": "Imaginary friend"
+            },
+            {
+                "pageid": 977433,
+                "ns": 0,
+                "title": "Ip dip"
+            },
+            {
+                "pageid": 4981010,
+                "ns": 0,
+                "title": "Jinx (children's game)"
+            },
+            {
+                "pageid": 27290640,
+                "ns": 0,
+                "title": "Johnny Whoop"
+            },
+            {
+                "pageid": 594642,
+                "ns": 0,
+                "title": "Kagome Kagome"
+            },
+            {
+                "pageid": 3406885,
+                "ns": 0,
+                "title": "Keep away"
+            },
+            {
+                "pageid": 589122,
+                "ns": 0,
+                "title": "Kick the can"
+            },
+            {
+                "pageid": 6727974,
+                "ns": 0,
+                "title": "Kick-to-kick"
+            },
+            {
+                "pageid": 37783914,
+                "ns": 0,
+                "title": "Killerball (game)"
+            },
+            {
+                "pageid": 2819176,
+                "ns": 0,
+                "title": "Kim's Game"
+            },
+            {
+                "pageid": 1245945,
+                "ns": 0,
+                "title": "King of the Hill (game)"
+            },
+            {
+                "pageid": 3727740,
+                "ns": 0,
+                "title": "Knock, Knock, Ginger"
+            },
+            {
+                "pageid": 4181038,
+                "ns": 0,
+                "title": "Knockout (board game)"
+            },
+            {
+                "pageid": 3125551,
+                "ns": 0,
+                "title": "Knucklebones"
+            },
+            {
+                "pageid": 24249185,
+                "ns": 0,
+                "title": "La víbora de la mar"
+            },
+            {
+                "pageid": 184600,
+                "ns": 0,
+                "title": "Leapfrog"
+            },
+            {
+                "pageid": 40176433,
+                "ns": 0,
+                "title": "Let's Play Swing"
+            },
+            {
+                "pageid": 3934505,
+                "ns": 0,
+                "title": "Light as a feather, stiff as a board"
+            },
+            {
+                "pageid": 402942,
+                "ns": 0,
+                "title": "List of traditional children's games"
+            },
+            {
+                "pageid": 26318025,
+                "ns": 0,
+                "title": "Luksong baka"
+            },
+            {
+                "pageid": 1714652,
+                "ns": 0,
+                "title": "Make believe"
+            },
+            {
+                "pageid": 7987892,
+                "ns": 0,
+                "title": "Makura-Nage"
+            },
+            {
+                "pageid": 672179,
+                "ns": 0,
+                "title": "Marble (toy)"
+            },
+            {
+                "pageid": 1800826,
+                "ns": 0,
+                "title": "MASH (game)"
+            },
+            {
+                "pageid": 870726,
+                "ns": 0,
+                "title": "Menko"
+            },
+            {
+                "pageid": 7419543,
+                "ns": 0,
+                "title": "Mercy (game)"
+            },
+            {
+                "pageid": 1902832,
+                "ns": 0,
+                "title": "Mother May I?"
+            },
+            {
+                "pageid": 1713916,
+                "ns": 0,
+                "title": "Mr. Bucket"
+            },
+            {
+                "pageid": 5270295,
+                "ns": 0,
+                "title": "Mumblety-peg"
+            },
+            {
+                "pageid": 21030,
+                "ns": 0,
+                "title": "Musical chairs"
+            },
+            {
+                "pageid": 2334408,
+                "ns": 0,
+                "title": "Musical statues"
+            },
+            {
+                "pageid": 24858307,
+                "ns": 0,
+                "title": "Nalugu Stambhalata"
+            },
+            {
+                "pageid": 33919768,
+                "ns": 0,
+                "title": "New York Street Games"
+            },
+            {
+                "pageid": 4157876,
+                "ns": 0,
+                "title": "Nickels"
+            },
+            {
+                "pageid": 16819552,
+                "ns": 0,
+                "title": "Ninety-nine (addition card game)"
+            },
+            {
+                "pageid": 28932856,
+                "ns": 0,
+                "title": "Ninja (playground game)"
+            },
+            {
+                "pageid": 47958578,
+                "ns": 0,
+                "title": "Ohajiki"
+            },
+            {
+                "pageid": 25131174,
+                "ns": 0,
+                "title": "Oonch Neech"
+            },
+            {
+                "pageid": 19186769,
+                "ns": 0,
+                "title": "Opposite Day"
+            },
+            {
+                "pageid": 14316235,
+                "ns": 0,
+                "title": "Orbliquet"
+            },
+            {
+                "pageid": 492176,
+                "ns": 0,
+                "title": "Oshikura Manju"
+            },
+            {
+                "pageid": 4122547,
+                "ns": 0,
+                "title": "Paper Chase (game)"
+            },
+            {
+                "pageid": 625420,
+                "ns": 0,
+                "title": "Paper football"
+            },
+            {
+                "pageid": 3645432,
+                "ns": 0,
+                "title": "Paper fortune teller"
+            },
+            {
+                "pageid": 8398706,
+                "ns": 0,
+                "title": "Para-balloon"
+            },
+            {
+                "pageid": 45648879,
+                "ns": 0,
+                "title": "Pass the ring"
+            },
+            {
+                "pageid": 436614,
+                "ns": 0,
+                "title": "Pat-a-cake, pat-a-cake, baker's man"
+            },
+            {
+                "pageid": 3232225,
+                "ns": 0,
+                "title": "Payana"
+            },
+            {
+                "pageid": 1773627,
+                "ns": 0,
+                "title": "Pease Porridge Hot"
+            },
+            {
+                "pageid": 2787103,
+                "ns": 0,
+                "title": "Peekaboo"
+            },
+            {
+                "pageid": 387996,
+                "ns": 0,
+                "title": "Pick-up sticks"
+            },
+            {
+                "pageid": 20742093,
+                "ns": 0,
+                "title": "Pie (game)"
+            },
+            {
+                "pageid": 45260769,
+                "ns": 0,
+                "title": "Pilolo"
+            },
+            {
+                "pageid": 521270,
+                "ns": 0,
+                "title": "Pin the tail on the donkey"
+            },
+            {
+                "pageid": 347962,
+                "ns": 0,
+                "title": "Piñata"
+            },
+            {
+                "pageid": 20910351,
+                "ns": 0,
+                "title": "Pinners"
+            },
+            {
+                "pageid": 673840,
+                "ns": 0,
+                "title": "Pogs"
+            },
+            {
+                "pageid": 44255328,
+                "ns": 0,
+                "title": "Poison (game)"
+            },
+            {
+                "pageid": 38905308,
+                "ns": 0,
+                "title": "Pom-pom-pull-away"
+            },
+            {
+                "pageid": 18074300,
+                "ns": 0,
+                "title": "Poor Mary"
+            },
+            {
+                "pageid": 5481172,
+                "ns": 0,
+                "title": "Pop-up Pirate"
+            },
+            {
+                "pageid": 19540573,
+                "ns": 0,
+                "title": "Princess and the Pea (board game)"
+            },
+            {
+                "pageid": 452268,
+                "ns": 0,
+                "title": "Punch buggy"
+            },
+            {
+                "pageid": 11824469,
+                "ns": 0,
+                "title": "Push-pin (game)"
+            },
+            {
+                "pageid": 20741609,
+                "ns": 0,
+                "title": "Puss in the corner (children's game)"
+            },
+            {
+                "pageid": 6062240,
+                "ns": 0,
+                "title": "Quaker Meeting (child's game)"
+            },
+            {
+                "pageid": 6062279,
+                "ns": 0,
+                "title": "Quiet game"
+            },
+            {
+                "pageid": 1504512,
+                "ns": 0,
+                "title": "Red hands"
+            },
+            {
+                "pageid": 1011012,
+                "ns": 0,
+                "title": "Red Rover"
+            },
+            {
+                "pageid": 3809892,
+                "ns": 0,
+                "title": "Ringolevio"
+            },
+            {
+                "pageid": 27032,
+                "ns": 0,
+                "title": "Rock-paper-scissors"
+            },
+            {
+                "pageid": 7061414,
+                "ns": 0,
+                "title": "Rousette skating"
+            },
+            {
+                "pageid": 38905311,
+                "ns": 0,
+                "title": "Rushing bases"
+            },
+            {
+                "pageid": 32717391,
+                "ns": 0,
+                "title": "Russian four square"
+            },
+            {
+                "pageid": 2161269,
+                "ns": 0,
+                "title": "Sack race"
+            },
+            {
+                "pageid": 20758004,
+                "ns": 0,
+                "title": "Shoe tossing"
+            },
+            {
+                "pageid": 8860167,
+                "ns": 0,
+                "title": "Silent ball"
+            },
+            {
+                "pageid": 173429,
+                "ns": 0,
+                "title": "Simon Says"
+            },
+            {
+                "pageid": 3806020,
+                "ns": 0,
+                "title": "Skully (game)"
+            },
+            {
+                "pageid": 44056021,
+                "ns": 0,
+                "title": "Skyscope (children's game)"
+            },
+            {
+                "pageid": 5674364,
+                "ns": 0,
+                "title": "Sleeping Queens"
+            },
+            {
+                "pageid": 2334451,
+                "ns": 0,
+                "title": "Sleeping lions"
+            },
+            {
+                "pageid": 2886590,
+                "ns": 0,
+                "title": "Snap-dragon (game)"
+            },
+            {
+                "pageid": 1387492,
+                "ns": 0,
+                "title": "Snow fort"
+            },
+            {
+                "pageid": 1725304,
+                "ns": 0,
+                "title": "Snowball fight"
+            },
+            {
+                "pageid": 2013009,
+                "ns": 0,
+                "title": "Spud (game)"
+            },
+            {
+                "pageid": 6708228,
+                "ns": 0,
+                "title": "Squeak Piggy Squeak"
+            },
+            {
+                "pageid": 1277647,
+                "ns": 0,
+                "title": "Statues (game)"
+            },
+            {
+                "pageid": 11446894,
+                "ns": 0,
+                "title": "Steal the Bacon"
+            },
+            {
+                "pageid": 43490987,
+                "ns": 0,
+                "title": "Hobby horse polo"
+            },
+            {
+                "pageid": 3213471,
+                "ns": 0,
+                "title": "Stick bomb"
+            },
+            {
+                "pageid": 1746511,
+                "ns": 0,
+                "title": "Suicide (game)"
+            },
+            {
+                "pageid": 536639,
+                "ns": 0,
+                "title": "Tag (game)"
+            },
+            {
+                "pageid": 27658521,
+                "ns": 0,
+                "title": "Text roulette"
+            },
+            {
+                "pageid": 7373037,
+                "ns": 0,
+                "title": "The bumps"
+            },
+            {
+                "pageid": 3396350,
+                "ns": 0,
+                "title": "The chocolate game"
+            },
+            {
+                "pageid": 2312294,
+                "ns": 0,
+                "title": "Three-legged race"
+            },
+            {
+                "pageid": 30872798,
+                "ns": 0,
+                "title": "Thumb war"
+            },
+            {
+                "pageid": 457395,
+                "ns": 0,
+                "title": "Tiddlywinks"
+            },
+            {
+                "pageid": 1692813,
+                "ns": 0,
+                "title": "Tinker, Tailor"
+            },
+            {
+                "pageid": 31642530,
+                "ns": 0,
+                "title": "Tiyakad"
+            },
+            {
+                "pageid": 6489728,
+                "ns": 0,
+                "title": "Toe wrestling"
+            },
+            {
+                "pageid": 11667230,
+                "ns": 0,
+                "title": "Tom Tidler's Ground"
+            },
+            {
+                "pageid": 8624624,
+                "ns": 0,
+                "title": "Traditional games in the Philippines"
+            },
+            {
+                "pageid": 26002305,
+                "ns": 0,
+                "title": "Traditional games of Andhra Pradesh"
+            },
+            {
+                "pageid": 1876109,
+                "ns": 0,
+                "title": "Treasure hunt (game)"
+            },
+            {
+                "pageid": 32673376,
+                "ns": 0,
+                "title": "Tsere tsere"
+            },
+            {
+                "pageid": 26317903,
+                "ns": 0,
+                "title": "Tumbang preso"
+            },
+            {
+                "pageid": 24020756,
+                "ns": 0,
+                "title": "Wallball"
+            },
+            {
+                "pageid": 37619107,
+                "ns": 0,
+                "title": "Weet weet"
+            },
+            {
+                "pageid": 2128952,
+                "ns": 0,
+                "title": "What's the time, Mr Wolf?"
+            },
+            {
+                "pageid": 7201019,
+                "ns": 0,
+                "title": "Who's Missing (game)"
+            },
+            {
+                "pageid": 1890753,
+                "ns": 0,
+                "title": "Wink murder"
+            },
+            {
+                "pageid": 9228361,
+                "ns": 0,
+                "title": "Word chain"
+            },
+            {
+                "pageid": 23349111,
+                "ns": 0,
+                "title": "Zingo!"
+            },
+            {
+                "pageid": 20608609,
+                "ns": 0,
+                "title": "Zip and bong"
             }
         ]
     }

@@ -1,0 +1,492 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 18472161,
+                "ns": 0,
+                "title": "Achi (game)"
+            },
+            {
+                "pageid": 18443092,
+                "ns": 0,
+                "title": "Adugo"
+            },
+            {
+                "pageid": 3367099,
+                "ns": 0,
+                "title": "Alea evangelii"
+            },
+            {
+                "pageid": 22009837,
+                "ns": 0,
+                "title": "Ali Guli Mane"
+            },
+            {
+                "pageid": 62373,
+                "ns": 0,
+                "title": "Alquerque"
+            },
+            {
+                "pageid": 25318356,
+                "ns": 0,
+                "title": "Ashtapada"
+            },
+            {
+                "pageid": 562187,
+                "ns": 0,
+                "title": "Ashte kashte"
+            },
+            {
+                "pageid": 20370792,
+                "ns": 0,
+                "title": "Awithlaknannai Mosona"
+            },
+            {
+                "pageid": 4329,
+                "ns": 0,
+                "title": "Backgammon"
+            },
+            {
+                "pageid": 18706574,
+                "ns": 0,
+                "title": "Bagh bandi"
+            },
+            {
+                "pageid": 3147596,
+                "ns": 0,
+                "title": "Bagh-Chal"
+            },
+            {
+                "pageid": 18508111,
+                "ns": 0,
+                "title": "Bear games"
+            },
+            {
+                "pageid": 18688798,
+                "ns": 0,
+                "title": "Buga-shadara"
+            },
+            {
+                "pageid": 18551203,
+                "ns": 0,
+                "title": "Butterfly (game)"
+            },
+            {
+                "pageid": 237797,
+                "ns": 0,
+                "title": "Chaturanga"
+            },
+            {
+                "pageid": 283208,
+                "ns": 0,
+                "title": "Chaupar"
+            },
+            {
+                "pageid": 5134,
+                "ns": 0,
+                "title": "Chess"
+            },
+            {
+                "pageid": 18497160,
+                "ns": 0,
+                "title": "Choko (game)"
+            },
+            {
+                "pageid": 18706736,
+                "ns": 0,
+                "title": "Chopat"
+            },
+            {
+                "pageid": 4129217,
+                "ns": 0,
+                "title": "Chowka bhara"
+            },
+            {
+                "pageid": 19496019,
+                "ns": 0,
+                "title": "Computer shogi"
+            },
+            {
+                "pageid": 18889521,
+                "ns": 0,
+                "title": "Dablot Prejjesne"
+            },
+            {
+                "pageid": 5873331,
+                "ns": 0,
+                "title": "Daldøs"
+            },
+            {
+                "pageid": 18406849,
+                "ns": 0,
+                "title": "Dara (game)"
+            },
+            {
+                "pageid": 18576771,
+                "ns": 0,
+                "title": "Dash-guti"
+            },
+            {
+                "pageid": 18822580,
+                "ns": 0,
+                "title": "Demala diviyan keliya"
+            },
+            {
+                "pageid": 62459,
+                "ns": 0,
+                "title": "Draughts"
+            },
+            {
+                "pageid": 18578588,
+                "ns": 0,
+                "title": "Egara-guti"
+            },
+            {
+                "pageid": 14219152,
+                "ns": 0,
+                "title": "Fangqi"
+            },
+            {
+                "pageid": 46776,
+                "ns": 0,
+                "title": "Fanorona"
+            },
+            {
+                "pageid": 18699729,
+                "ns": 0,
+                "title": "Felli"
+            },
+            {
+                "pageid": 18976382,
+                "ns": 0,
+                "title": "Fetaix"
+            },
+            {
+                "pageid": 63432,
+                "ns": 0,
+                "title": "Five Field Kono"
+            },
+            {
+                "pageid": 18699269,
+                "ns": 0,
+                "title": "Four Field Kono"
+            },
+            {
+                "pageid": 945910,
+                "ns": 0,
+                "title": "Fox games"
+            },
+            {
+                "pageid": 6795316,
+                "ns": 0,
+                "title": "Go variants"
+            },
+            {
+                "pageid": 18578900,
+                "ns": 0,
+                "title": "Gol-skuish"
+            },
+            {
+                "pageid": 12902,
+                "ns": 0,
+                "title": "Gomoku"
+            },
+            {
+                "pageid": 2600329,
+                "ns": 0,
+                "title": "Heian shogi"
+            },
+            {
+                "pageid": 19072352,
+                "ns": 0,
+                "title": "High Jump (game)"
+            },
+            {
+                "pageid": 7390791,
+                "ns": 0,
+                "title": "Indian chess"
+            },
+            {
+                "pageid": 582389,
+                "ns": 0,
+                "title": "Janggi"
+            },
+            {
+                "pageid": 1253257,
+                "ns": 0,
+                "title": "Jungle (board game)"
+            },
+            {
+                "pageid": 18487405,
+                "ns": 0,
+                "title": "Kaooa"
+            },
+            {
+                "pageid": 18886262,
+                "ns": 0,
+                "title": "Kharbaga"
+            },
+            {
+                "pageid": 2651613,
+                "ns": 0,
+                "title": "Ko shogi"
+            },
+            {
+                "pageid": 18393135,
+                "ns": 0,
+                "title": "Kolowis Awithlaknannai"
+            },
+            {
+                "pageid": 18675042,
+                "ns": 0,
+                "title": "Komikan"
+            },
+            {
+                "pageid": 20176703,
+                "ns": 0,
+                "title": "Kotu Ellima"
+            },
+            {
+                "pageid": 17484655,
+                "ns": 0,
+                "title": "Lambs and Tigers (Game)"
+            },
+            {
+                "pageid": 18571883,
+                "ns": 0,
+                "title": "Lau kata kati"
+            },
+            {
+                "pageid": 146662,
+                "ns": 0,
+                "title": "List of mancala games"
+            },
+            {
+                "pageid": 24016383,
+                "ns": 0,
+                "title": "Luzhanqi"
+            },
+            {
+                "pageid": 146657,
+                "ns": 0,
+                "title": "Mak-yek"
+            },
+            {
+                "pageid": 20124,
+                "ns": 0,
+                "title": "Mancala"
+            },
+            {
+                "pageid": 508135,
+                "ns": 0,
+                "title": "Mehen (game)"
+            },
+            {
+                "pageid": 18992656,
+                "ns": 0,
+                "title": "Meurimueng-rimueng-do"
+            },
+            {
+                "pageid": 18323594,
+                "ns": 0,
+                "title": "Ming Mang (game)"
+            },
+            {
+                "pageid": 15672856,
+                "ns": 0,
+                "title": "Mū tōrere"
+            },
+            {
+                "pageid": 41420956,
+                "ns": 0,
+                "title": "NHK Cup (shogi)"
+            },
+            {
+                "pageid": 18470138,
+                "ns": 0,
+                "title": "Nine Holes"
+            },
+            {
+                "pageid": 43472,
+                "ns": 0,
+                "title": "Nine Men's Morris"
+            },
+            {
+                "pageid": 18793708,
+                "ns": 0,
+                "title": "Ô ăn quan"
+            },
+            {
+                "pageid": 178009,
+                "ns": 0,
+                "title": "Pachisi"
+            },
+            {
+                "pageid": 6455623,
+                "ns": 0,
+                "title": "Pallanguzhi"
+            },
+            {
+                "pageid": 18527095,
+                "ns": 0,
+                "title": "Pasang"
+            },
+            {
+                "pageid": 18639498,
+                "ns": 0,
+                "title": "Peralikatuma"
+            },
+            {
+                "pageid": 18187465,
+                "ns": 0,
+                "title": "Permainan-Tabal"
+            },
+            {
+                "pageid": 18506420,
+                "ns": 0,
+                "title": "Picaria"
+            },
+            {
+                "pageid": 6591547,
+                "ns": 0,
+                "title": "Pong Hau K'i"
+            },
+            {
+                "pageid": 18578840,
+                "ns": 0,
+                "title": "Pretwa"
+            },
+            {
+                "pageid": 3236179,
+                "ns": 0,
+                "title": "Razzle (game)"
+            },
+            {
+                "pageid": 346221,
+                "ns": 0,
+                "title": "Renju"
+            },
+            {
+                "pageid": 25978,
+                "ns": 0,
+                "title": "Reversi"
+            },
+            {
+                "pageid": 18687886,
+                "ns": 0,
+                "title": "Rimau"
+            },
+            {
+                "pageid": 18326339,
+                "ns": 0,
+                "title": "Rimau-rimau"
+            },
+            {
+                "pageid": 6538620,
+                "ns": 0,
+                "title": "Sáhkku"
+            },
+            {
+                "pageid": 97295,
+                "ns": 0,
+                "title": "Senet"
+            },
+            {
+                "pageid": 18706094,
+                "ns": 0,
+                "title": "Sher-bakar"
+            },
+            {
+                "pageid": 18486973,
+                "ns": 0,
+                "title": "Shisima"
+            },
+            {
+                "pageid": 38988577,
+                "ns": 0,
+                "title": "Sho (board game)"
+            },
+            {
+                "pageid": 27739,
+                "ns": 0,
+                "title": "Shogi"
+            },
+            {
+                "pageid": 20162981,
+                "ns": 0,
+                "title": "Sixteen Soldiers"
+            },
+            {
+                "pageid": 3496325,
+                "ns": 0,
+                "title": "Surakarta (game)"
+            },
+            {
+                "pageid": 6538507,
+                "ns": 0,
+                "title": "Tâb"
+            },
+            {
+                "pageid": 80000,
+                "ns": 0,
+                "title": "Tables (board game)"
+            },
+            {
+                "pageid": 197115,
+                "ns": 0,
+                "title": "Tafl games"
+            },
+            {
+                "pageid": 18484835,
+                "ns": 0,
+                "title": "Tant Fant"
+            },
+            {
+                "pageid": 18456087,
+                "ns": 0,
+                "title": "Tapatan"
+            },
+            {
+                "pageid": 18960942,
+                "ns": 0,
+                "title": "Tiger game played with forty"
+            },
+            {
+                "pageid": 43220655,
+                "ns": 0,
+                "title": "Toguz korgol"
+            },
+            {
+                "pageid": 18590794,
+                "ns": 0,
+                "title": "Tsoro Yematatu"
+            },
+            {
+                "pageid": 18781486,
+                "ns": 0,
+                "title": "Wali (game)"
+            },
+            {
+                "pageid": 34199,
+                "ns": 0,
+                "title": "Xiangqi"
+            },
+            {
+                "pageid": 8961428,
+                "ns": 0,
+                "title": "Yoté"
+            },
+            {
+                "pageid": 826673,
+                "ns": 0,
+                "title": "Yut"
+            },
+            {
+                "pageid": 18878540,
+                "ns": 0,
+                "title": "Zamma"
+            }
+        ]
+    }
+}
