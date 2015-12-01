@@ -5,28 +5,28 @@ def batch_requests():
     i = 0
     request_set = Set()
     with open('temp.txt', 'a+') as f:
-        while(i <= 10000):
+        while(i <= 1000):
             urls = [
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random",
-                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&generator=random"]
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random",
+                    "https://en.wikipedia.org/w/api.php?action=query&format=json&prop=extracts|categories&exintro&explaintext&generator=random"]
             rs = grequests.map((grequests.get(u) for u in urls))
             for r in rs:
                 r_json = r.json()

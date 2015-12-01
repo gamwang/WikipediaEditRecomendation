@@ -1,0 +1,722 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 50076,
+                "ns": 0,
+                "title": "String instrument"
+            },
+            {
+                "pageid": 24102801,
+                "ns": 0,
+                "title": "List of Stradivarius instruments"
+            },
+            {
+                "pageid": 3443952,
+                "ns": 0,
+                "title": "List of string instruments"
+            },
+            {
+                "pageid": 11391467,
+                "ns": 0,
+                "title": "Stringed instrument tunings"
+            },
+            {
+                "pageid": 319204,
+                "ns": 0,
+                "title": "Acoustic bass guitar"
+            },
+            {
+                "pageid": 31844717,
+                "ns": 0,
+                "title": "Ahenk"
+            },
+            {
+                "pageid": 34968389,
+                "ns": 0,
+                "title": "Ajayu"
+            },
+            {
+                "pageid": 360501,
+                "ns": 0,
+                "title": "Aliquot stringing"
+            },
+            {
+                "pageid": 25818042,
+                "ns": 0,
+                "title": "American bass viol"
+            },
+            {
+                "pageid": 7709222,
+                "ns": 0,
+                "title": "Angélique (instrument)"
+            },
+            {
+                "pageid": 22556720,
+                "ns": 0,
+                "title": "Apache fiddle"
+            },
+            {
+                "pageid": 35207457,
+                "ns": 0,
+                "title": "Arbajo"
+            },
+            {
+                "pageid": 2821730,
+                "ns": 0,
+                "title": "Archlute"
+            },
+            {
+                "pageid": 416722,
+                "ns": 0,
+                "title": "Arpeggione"
+            },
+            {
+                "pageid": 513740,
+                "ns": 0,
+                "title": "Artificial harmonic"
+            },
+            {
+                "pageid": 1488363,
+                "ns": 0,
+                "title": "Asor"
+            },
+            {
+                "pageid": 20919884,
+                "ns": 0,
+                "title": "Axelrod quartet"
+            },
+            {
+                "pageid": 4567,
+                "ns": 0,
+                "title": "Balalaika"
+            },
+            {
+                "pageid": 34968409,
+                "ns": 0,
+                "title": "Bandol (instrument)"
+            },
+            {
+                "pageid": 416795,
+                "ns": 0,
+                "title": "Bandura"
+            },
+            {
+                "pageid": 3846,
+                "ns": 0,
+                "title": "Banjo"
+            },
+            {
+                "pageid": 13102520,
+                "ns": 0,
+                "title": "Basolia"
+            },
+            {
+                "pageid": 3916,
+                "ns": 0,
+                "title": "Bass guitar"
+            },
+            {
+                "pageid": 2310476,
+                "ns": 0,
+                "title": "Bordonua"
+            },
+            {
+                "pageid": 208837,
+                "ns": 0,
+                "title": "Bouzouki"
+            },
+            {
+                "pageid": 1488007,
+                "ns": 0,
+                "title": "Bowed string instrument"
+            },
+            {
+                "pageid": 2747233,
+                "ns": 0,
+                "title": "Bridge pin"
+            },
+            {
+                "pageid": 37507609,
+                "ns": 0,
+                "title": "Cak (instrument)"
+            },
+            {
+                "pageid": 21743724,
+                "ns": 0,
+                "title": "Calabrian lira"
+            },
+            {
+                "pageid": 32042482,
+                "ns": 0,
+                "title": "Cekuntrung"
+            },
+            {
+                "pageid": 6558,
+                "ns": 0,
+                "title": "Cello"
+            },
+            {
+                "pageid": 6702386,
+                "ns": 0,
+                "title": "Ceterone"
+            },
+            {
+                "pageid": 43362966,
+                "ns": 0,
+                "title": "Chagane"
+            },
+            {
+                "pageid": 88947,
+                "ns": 0,
+                "title": "Charango"
+            },
+            {
+                "pageid": 2514313,
+                "ns": 0,
+                "title": "Chelys"
+            },
+            {
+                "pageid": 32042522,
+                "ns": 0,
+                "title": "Chikara (instrument)"
+            },
+            {
+                "pageid": 31844676,
+                "ns": 0,
+                "title": "Chinlili"
+            },
+            {
+                "pageid": 35209147,
+                "ns": 0,
+                "title": "Chitrali sitar"
+            },
+            {
+                "pageid": 23666311,
+                "ns": 0,
+                "title": "Chiwang"
+            },
+            {
+                "pageid": 7405248,
+                "ns": 0,
+                "title": "Çifteli"
+            },
+            {
+                "pageid": 2646173,
+                "ns": 0,
+                "title": "Citole"
+            },
+            {
+                "pageid": 321643,
+                "ns": 0,
+                "title": "Cittern"
+            },
+            {
+                "pageid": 5810,
+                "ns": 0,
+                "title": "Classical guitar"
+            },
+            {
+                "pageid": 7531,
+                "ns": 0,
+                "title": "Clavichord"
+            },
+            {
+                "pageid": 2571991,
+                "ns": 0,
+                "title": "Contrabass guitar"
+            },
+            {
+                "pageid": 22549172,
+                "ns": 0,
+                "title": "Cornstalk fiddle"
+            },
+            {
+                "pageid": 2835096,
+                "ns": 0,
+                "title": "Course (music)"
+            },
+            {
+                "pageid": 5529060,
+                "ns": 0,
+                "title": "Cuatro (instrument)"
+            },
+            {
+                "pageid": 23123083,
+                "ns": 0,
+                "title": "Cuatro (Venezuela)"
+            },
+            {
+                "pageid": 37507618,
+                "ns": 0,
+                "title": "Cuk (instrument)"
+            },
+            {
+                "pageid": 28104923,
+                "ns": 0,
+                "title": "Cura (instrument)"
+            },
+            {
+                "pageid": 3297938,
+                "ns": 0,
+                "title": "Dahu (instrument)"
+            },
+            {
+                "pageid": 32042608,
+                "ns": 0,
+                "title": "Đàn tính"
+            },
+            {
+                "pageid": 36248971,
+                "ns": 0,
+                "title": "Đàn tứ"
+            },
+            {
+                "pageid": 35258830,
+                "ns": 0,
+                "title": "Dhantara"
+            },
+            {
+                "pageid": 8816,
+                "ns": 0,
+                "title": "Double bass"
+            },
+            {
+                "pageid": 17117190,
+                "ns": 0,
+                "title": "Dulcitar"
+            },
+            {
+                "pageid": 22610084,
+                "ns": 0,
+                "title": "Eeng"
+            },
+            {
+                "pageid": 22376621,
+                "ns": 0,
+                "title": "Endingidi"
+            },
+            {
+                "pageid": 1103779,
+                "ns": 0,
+                "title": "Endpin"
+            },
+            {
+                "pageid": 21027563,
+                "ns": 0,
+                "title": "Fiddlesticks"
+            },
+            {
+                "pageid": 2906989,
+                "ns": 0,
+                "title": "Ghaychak"
+            },
+            {
+                "pageid": 47514903,
+                "ns": 0,
+                "title": "Greffuhle Stradivarius"
+            },
+            {
+                "pageid": 32592089,
+                "ns": 0,
+                "title": "Gubguba"
+            },
+            {
+                "pageid": 41092413,
+                "ns": 0,
+                "title": "Guitalin"
+            },
+            {
+                "pageid": 23313630,
+                "ns": 0,
+                "title": "Gunjac"
+            },
+            {
+                "pageid": 22893421,
+                "ns": 0,
+                "title": "Hu hu"
+            },
+            {
+                "pageid": 31844828,
+                "ns": 0,
+                "title": "Huobosi"
+            },
+            {
+                "pageid": 36395414,
+                "ns": 0,
+                "title": "Idiochord"
+            },
+            {
+                "pageid": 45110739,
+                "ns": 0,
+                "title": "Jhallari"
+            },
+            {
+                "pageid": 603702,
+                "ns": 0,
+                "title": "Kamancheh"
+            },
+            {
+                "pageid": 3827676,
+                "ns": 0,
+                "title": "Kannel (instrument)"
+            },
+            {
+                "pageid": 32475681,
+                "ns": 0,
+                "title": "Karantouzeni"
+            },
+            {
+                "pageid": 41280199,
+                "ns": 0,
+                "title": "Kingri (string instrument)"
+            },
+            {
+                "pageid": 42598592,
+                "ns": 0,
+                "title": "Kongahyan"
+            },
+            {
+                "pageid": 33067866,
+                "ns": 0,
+                "title": "Kontra"
+            },
+            {
+                "pageid": 13102550,
+                "ns": 0,
+                "title": "Kozobas"
+            },
+            {
+                "pageid": 36199824,
+                "ns": 0,
+                "title": "Kumuz"
+            },
+            {
+                "pageid": 34968467,
+                "ns": 0,
+                "title": "Kwitra"
+            },
+            {
+                "pageid": 18793650,
+                "ns": 0,
+                "title": "Laúd"
+            },
+            {
+                "pageid": 7890241,
+                "ns": 0,
+                "title": "Lira da braccio"
+            },
+            {
+                "pageid": 2092908,
+                "ns": 0,
+                "title": "Lirone"
+            },
+            {
+                "pageid": 14521954,
+                "ns": 0,
+                "title": "List of Caribbean chordophones"
+            },
+            {
+                "pageid": 22073114,
+                "ns": 0,
+                "title": "Lokanga bara"
+            },
+            {
+                "pageid": 22189622,
+                "ns": 0,
+                "title": "Panduri"
+            },
+            {
+                "pageid": 35934109,
+                "ns": 0,
+                "title": "Pararayki"
+            },
+            {
+                "pageid": 2444557,
+                "ns": 0,
+                "title": "Parsifal bell"
+            },
+            {
+                "pageid": 32862543,
+                "ns": 0,
+                "title": "Pedal clavichord"
+            },
+            {
+                "pageid": 44438290,
+                "ns": 0,
+                "title": "Pena (musical instrument)"
+            },
+            {
+                "pageid": 19203177,
+                "ns": 0,
+                "title": "Phonofiddle"
+            },
+            {
+                "pageid": 6216162,
+                "ns": 0,
+                "title": "Plucked string instrument"
+            },
+            {
+                "pageid": 34968519,
+                "ns": 0,
+                "title": "Pondar"
+            },
+            {
+                "pageid": 23123072,
+                "ns": 0,
+                "title": "Puerto Rican cuatro"
+            },
+            {
+                "pageid": 37475961,
+                "ns": 0,
+                "title": "Rabel (instrument)"
+            },
+            {
+                "pageid": 17091468,
+                "ns": 0,
+                "title": "Ravanahatha"
+            },
+            {
+                "pageid": 34968560,
+                "ns": 0,
+                "title": "Rawap"
+            },
+            {
+                "pageid": 1885885,
+                "ns": 0,
+                "title": "Rebab"
+            },
+            {
+                "pageid": 1017627,
+                "ns": 0,
+                "title": "Requinto"
+            },
+            {
+                "pageid": 3459107,
+                "ns": 0,
+                "title": "Rudra veena"
+            },
+            {
+                "pageid": 21978441,
+                "ns": 0,
+                "title": "Sambuca (instrument)"
+            },
+            {
+                "pageid": 31849424,
+                "ns": 0,
+                "title": "Sapeh"
+            },
+            {
+                "pageid": 22491665,
+                "ns": 0,
+                "title": "Sarangi (Nepali)"
+            },
+            {
+                "pageid": 1885887,
+                "ns": 0,
+                "title": "Seni rebab"
+            },
+            {
+                "pageid": 22231154,
+                "ns": 0,
+                "title": "Setor"
+            },
+            {
+                "pageid": 306474,
+                "ns": 0,
+                "title": "Shamisen"
+            },
+            {
+                "pageid": 34968575,
+                "ns": 0,
+                "title": "Socavon"
+            },
+            {
+                "pageid": 34972652,
+                "ns": 0,
+                "title": "Stoessel lute"
+            },
+            {
+                "pageid": 153773,
+                "ns": 0,
+                "title": "Stradivarius"
+            },
+            {
+                "pageid": 26494445,
+                "ns": 0,
+                "title": "Stredici"
+            },
+            {
+                "pageid": 1945335,
+                "ns": 0,
+                "title": "String (music)"
+            },
+            {
+                "pageid": 10291280,
+                "ns": 0,
+                "title": "String instrument repertoire"
+            },
+            {
+                "pageid": 11772138,
+                "ns": 0,
+                "title": "String resonance"
+            },
+            {
+                "pageid": 15873338,
+                "ns": 0,
+                "title": "Suroz"
+            },
+            {
+                "pageid": 36501443,
+                "ns": 0,
+                "title": "Swarabat"
+            },
+            {
+                "pageid": 26532771,
+                "ns": 0,
+                "title": "Tambouras"
+            },
+            {
+                "pageid": 1262109,
+                "ns": 0,
+                "title": "Tamburica"
+            },
+            {
+                "pageid": 26697286,
+                "ns": 0,
+                "title": "Tarhu"
+            },
+            {
+                "pageid": 30873423,
+                "ns": 0,
+                "title": "Tati (instrument)"
+            },
+            {
+                "pageid": 24942884,
+                "ns": 0,
+                "title": "Taus (instrument)"
+            },
+            {
+                "pageid": 32052382,
+                "ns": 0,
+                "title": "Tembor"
+            },
+            {
+                "pageid": 22565474,
+                "ns": 0,
+                "title": "Tremoloa"
+            },
+            {
+                "pageid": 3536118,
+                "ns": 0,
+                "title": "Tsugaru-jamisen"
+            },
+            {
+                "pageid": 24921981,
+                "ns": 0,
+                "title": "Tungna"
+            },
+            {
+                "pageid": 31844956,
+                "ns": 0,
+                "title": "Tzouras"
+            },
+            {
+                "pageid": 31322421,
+                "ns": 0,
+                "title": "Ütőgardon"
+            },
+            {
+                "pageid": 38866333,
+                "ns": 0,
+                "title": "Veena"
+            },
+            {
+                "pageid": 31902517,
+                "ns": 0,
+                "title": "Veena (disambiguation)"
+            },
+            {
+                "pageid": 42998354,
+                "ns": 0,
+                "title": "Misr veena"
+            },
+            {
+                "pageid": 4511189,
+                "ns": 0,
+                "title": "Vichitra veena"
+            },
+            {
+                "pageid": 32600,
+                "ns": 0,
+                "title": "Viola"
+            },
+            {
+                "pageid": 30532468,
+                "ns": 0,
+                "title": "Viola amarantina"
+            },
+            {
+                "pageid": 32549797,
+                "ns": 0,
+                "title": "Viola beiroa"
+            },
+            {
+                "pageid": 32549829,
+                "ns": 0,
+                "title": "Viola braguesa"
+            },
+            {
+                "pageid": 32549839,
+                "ns": 0,
+                "title": "Viola campaniça"
+            },
+            {
+                "pageid": 32549848,
+                "ns": 0,
+                "title": "Viola da terra"
+            },
+            {
+                "pageid": 32549865,
+                "ns": 0,
+                "title": "Viola de arame"
+            },
+            {
+                "pageid": 34386587,
+                "ns": 0,
+                "title": "Viola de Queluz"
+            },
+            {
+                "pageid": 3037472,
+                "ns": 0,
+                "title": "Viola jokes"
+            },
+            {
+                "pageid": 24823167,
+                "ns": 0,
+                "title": "Viola Profonda"
+            },
+            {
+                "pageid": 32564534,
+                "ns": 0,
+                "title": "Viola sertaneja"
+            },
+            {
+                "pageid": 32549885,
+                "ns": 0,
+                "title": "Viola terceira"
+            },
+            {
+                "pageid": 32549893,
+                "ns": 0,
+                "title": "Viola Toeira"
+            },
+            {
+                "pageid": 3171100,
+                "ns": 0,
+                "title": "Violin family"
+            }
+        ]
+    }
+}

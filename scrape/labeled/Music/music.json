@@ -1,0 +1,37 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 18839,
+                "ns": 0,
+                "title": "Music"
+            },
+            {
+                "pageid": 8932309,
+                "ns": 0,
+                "title": "Concert performance"
+            },
+            {
+                "pageid": 48680092,
+                "ns": 0,
+                "title": "Leyla The Band"
+            },
+            {
+                "pageid": 54783,
+                "ns": 0,
+                "title": "Music theory"
+            },
+            {
+                "pageid": 48640776,
+                "ns": 0,
+                "title": "Justin Tranchita"
+            },
+            {
+                "pageid": 1474047,
+                "ns": 100,
+                "title": "Portal:Music"
+            }
+        ]
+    }
+}
