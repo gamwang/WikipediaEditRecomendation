@@ -1,0 +1,261 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "cmcontinue": "page|434155535449432050454e43494c|5620659",
+        "continue": "-||"
+    },
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 335668,
+                "ns": 0,
+                "title": "Medical equipment"
+            },
+            {
+                "pageid": 9125919,
+                "ns": 0,
+                "title": "Abductor wedge"
+            },
+            {
+                "pageid": 22865634,
+                "ns": 0,
+                "title": "AccuVein"
+            },
+            {
+                "pageid": 551777,
+                "ns": 0,
+                "title": "Air ioniser"
+            },
+            {
+                "pageid": 1197569,
+                "ns": 0,
+                "title": "Air purifier"
+            },
+            {
+                "pageid": 39841150,
+                "ns": 0,
+                "title": "Airtraq"
+            },
+            {
+                "pageid": 38714137,
+                "ns": 0,
+                "title": "Analytical nebulizer"
+            },
+            {
+                "pageid": 14244253,
+                "ns": 0,
+                "title": "Anemostat"
+            },
+            {
+                "pageid": 35320967,
+                "ns": 0,
+                "title": "Anesthesia cart"
+            },
+            {
+                "pageid": 17564368,
+                "ns": 0,
+                "title": "Arctic Sun medical device"
+            },
+            {
+                "pageid": 38555995,
+                "ns": 0,
+                "title": "Argus retinal prosthesis"
+            },
+            {
+                "pageid": 24201048,
+                "ns": 0,
+                "title": "Aspirator (medical device)"
+            },
+            {
+                "pageid": 307623,
+                "ns": 0,
+                "title": "Asthma spacer"
+            },
+            {
+                "pageid": 22780043,
+                "ns": 0,
+                "title": "ATNAA"
+            },
+            {
+                "pageid": 2382486,
+                "ns": 0,
+                "title": "AutoAnalyzer"
+            },
+            {
+                "pageid": 251401,
+                "ns": 0,
+                "title": "Autoclave"
+            },
+            {
+                "pageid": 9847565,
+                "ns": 0,
+                "title": "Autoclave tape"
+            },
+            {
+                "pageid": 285911,
+                "ns": 0,
+                "title": "Autoinjector"
+            },
+            {
+                "pageid": 25678949,
+                "ns": 0,
+                "title": "Automated ECG interpretation"
+            },
+            {
+                "pageid": 18963457,
+                "ns": 0,
+                "title": "Automated tissue image analysis"
+            },
+            {
+                "pageid": 44190098,
+                "ns": 0,
+                "title": "Bagolini Striated Glasses Test"
+            },
+            {
+                "pageid": 37399745,
+                "ns": 0,
+                "title": "Bakri balloon"
+            },
+            {
+                "pageid": 2686361,
+                "ns": 0,
+                "title": "Bárány chair"
+            },
+            {
+                "pageid": 598704,
+                "ns": 0,
+                "title": "Becton Dickinson"
+            },
+            {
+                "pageid": 2524673,
+                "ns": 0,
+                "title": "Bedpan"
+            },
+            {
+                "pageid": 39415583,
+                "ns": 0,
+                "title": "Beltri"
+            },
+            {
+                "pageid": 6038692,
+                "ns": 0,
+                "title": "Barouh Berkovits"
+            },
+            {
+                "pageid": 47135843,
+                "ns": 0,
+                "title": "Bien-Air Medical Technologies"
+            },
+            {
+                "pageid": 14111082,
+                "ns": 0,
+                "title": "Biliblanket"
+            },
+            {
+                "pageid": 8999379,
+                "ns": 0,
+                "title": "Bioartificial liver device"
+            },
+            {
+                "pageid": 12542424,
+                "ns": 0,
+                "title": "Biophone"
+            },
+            {
+                "pageid": 14518828,
+                "ns": 0,
+                "title": "Bioptome"
+            },
+            {
+                "pageid": 1700890,
+                "ns": 0,
+                "title": "Forrest Bird"
+            },
+            {
+                "pageid": 39148820,
+                "ns": 0,
+                "title": "Birthing chair"
+            },
+            {
+                "pageid": 44769182,
+                "ns": 0,
+                "title": "Blind insertion airway device"
+            },
+            {
+                "pageid": 20889371,
+                "ns": 0,
+                "title": "Blood pump"
+            },
+            {
+                "pageid": 2606187,
+                "ns": 0,
+                "title": "Bodok seal"
+            },
+            {
+                "pageid": 20207968,
+                "ns": 0,
+                "title": "BodyKom"
+            },
+            {
+                "pageid": 16108872,
+                "ns": 0,
+                "title": "Bonanno catheter"
+            },
+            {
+                "pageid": 37736784,
+                "ns": 0,
+                "title": "Boot (medical)"
+            },
+            {
+                "pageid": 15584956,
+                "ns": 0,
+                "title": "Brivant"
+            },
+            {
+                "pageid": 27696778,
+                "ns": 0,
+                "title": "Bronchitis kettle"
+            },
+            {
+                "pageid": 41830137,
+                "ns": 0,
+                "title": "Bubble oxygenator"
+            },
+            {
+                "pageid": 48140171,
+                "ns": 0,
+                "title": "Bubble sensor"
+            },
+            {
+                "pageid": 17599701,
+                "ns": 0,
+                "title": "Burn recovery bed"
+            },
+            {
+                "pageid": 25872736,
+                "ns": 0,
+                "title": "Cameron Health"
+            },
+            {
+                "pageid": 332952,
+                "ns": 0,
+                "title": "Cannula"
+            },
+            {
+                "pageid": 261827,
+                "ns": 0,
+                "title": "Cardiopulmonary bypass"
+            },
+            {
+                "pageid": 9252283,
+                "ns": 0,
+                "title": "Carotid Doppler machine"
+            },
+            {
+                "pageid": 24264072,
+                "ns": 0,
+                "title": "Carpuject"
+            }
+        ]
+    }
+}

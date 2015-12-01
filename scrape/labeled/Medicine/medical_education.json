@@ -1,0 +1,261 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "cmcontinue": "page|4e4152524154495645204d45444943494e450a4e4152524154495645204d45444943494e45|10795328",
+        "continue": "-||"
+    },
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 2407129,
+                "ns": 0,
+                "title": "Medical education"
+            },
+            {
+                "pageid": 45301617,
+                "ns": 0,
+                "title": "Medical education in Norway"
+            },
+            {
+                "pageid": 45716919,
+                "ns": 0,
+                "title": "Single Best Answer"
+            },
+            {
+                "pageid": 5613806,
+                "ns": 0,
+                "title": "Academic detailing"
+            },
+            {
+                "pageid": 3708773,
+                "ns": 0,
+                "title": "Acland's Video Atlas of Human Anatomy"
+            },
+            {
+                "pageid": 32221970,
+                "ns": 0,
+                "title": "Alliance of Independent Academic Medical Centers"
+            },
+            {
+                "pageid": 31725255,
+                "ns": 0,
+                "title": "Allow natural death"
+            },
+            {
+                "pageid": 2079520,
+                "ns": 0,
+                "title": "Anatomical theatre"
+            },
+            {
+                "pageid": 33972172,
+                "ns": 0,
+                "title": "Arab Health"
+            },
+            {
+                "pageid": 45573089,
+                "ns": 0,
+                "title": "Ayush & Health Sciences University Chhattisgarh"
+            },
+            {
+                "pageid": 30858275,
+                "ns": 0,
+                "title": "BioMedical Admissions Test"
+            },
+            {
+                "pageid": 45649799,
+                "ns": 0,
+                "title": "Board Vitals"
+            },
+            {
+                "pageid": 27593808,
+                "ns": 0,
+                "title": "CASPA"
+            },
+            {
+                "pageid": 35810622,
+                "ns": 0,
+                "title": "Certificat de formation à la sécurité"
+            },
+            {
+                "pageid": 27113499,
+                "ns": 0,
+                "title": "Cinemeducation"
+            },
+            {
+                "pageid": 20902526,
+                "ns": 0,
+                "title": "Clerkship (medicine)"
+            },
+            {
+                "pageid": 19027000,
+                "ns": 0,
+                "title": "Clinical clerkship"
+            },
+            {
+                "pageid": 23478375,
+                "ns": 0,
+                "title": "Clinical professor"
+            },
+            {
+                "pageid": 2940315,
+                "ns": 0,
+                "title": "Continuing medical education"
+            },
+            {
+                "pageid": 18964621,
+                "ns": 0,
+                "title": "Cultural competency training"
+            },
+            {
+                "pageid": 44969812,
+                "ns": 0,
+                "title": "Dextroscope"
+            },
+            {
+                "pageid": 30872841,
+                "ns": 0,
+                "title": "Doctorandus"
+            },
+            {
+                "pageid": 43363827,
+                "ns": 0,
+                "title": "Doctors Academy"
+            },
+            {
+                "pageid": 39506967,
+                "ns": 0,
+                "title": "Education in personalized medicine"
+            },
+            {
+                "pageid": 35906833,
+                "ns": 0,
+                "title": "Elective (medical)"
+            },
+            {
+                "pageid": 38245120,
+                "ns": 0,
+                "title": "The Electives Network"
+            },
+            {
+                "pageid": 26975440,
+                "ns": 0,
+                "title": "English Medium Medical Schools"
+            },
+            {
+                "pageid": 30461798,
+                "ns": 0,
+                "title": "European Association for Clinical Pharmacology and Therapeutics"
+            },
+            {
+                "pageid": 2119407,
+                "ns": 0,
+                "title": "Graduate Australian Medical School Admissions Test"
+            },
+            {
+                "pageid": 10216355,
+                "ns": 0,
+                "title": "Graduate Medical Program"
+            },
+            {
+                "pageid": 34556227,
+                "ns": 0,
+                "title": "Graphic medicine"
+            },
+            {
+                "pageid": 30462587,
+                "ns": 0,
+                "title": "Hippocrates Prize for Poetry and Medicine"
+            },
+            {
+                "pageid": 2098325,
+                "ns": 0,
+                "title": "Inservice program"
+            },
+            {
+                "pageid": 23607873,
+                "ns": 0,
+                "title": "Interactive Educational Program for Spine"
+            },
+            {
+                "pageid": 26690647,
+                "ns": 0,
+                "title": "International Association of Medical Colleges"
+            },
+            {
+                "pageid": 6306937,
+                "ns": 0,
+                "title": "International Medical Education Directory"
+            },
+            {
+                "pageid": 3586577,
+                "ns": 0,
+                "title": "Internship (medicine)"
+            },
+            {
+                "pageid": 31276065,
+                "ns": 0,
+                "title": "Leiden International Medical Student Conference"
+            },
+            {
+                "pageid": 42621551,
+                "ns": 0,
+                "title": "Bennett Lorber"
+            },
+            {
+                "pageid": 2244502,
+                "ns": 0,
+                "title": "Manikin"
+            },
+            {
+                "pageid": 38934936,
+                "ns": 0,
+                "title": "MD MS programs"
+            },
+            {
+                "pageid": 36405951,
+                "ns": 0,
+                "title": "Medic to Medic"
+            },
+            {
+                "pageid": 23735746,
+                "ns": 0,
+                "title": "Medical education agency"
+            },
+            {
+                "pageid": 2913440,
+                "ns": 0,
+                "title": "Medicine in China"
+            },
+            {
+                "pageid": 1574427,
+                "ns": 0,
+                "title": "Medical humanities"
+            },
+            {
+                "pageid": 3624330,
+                "ns": 0,
+                "title": "Medical resident work hours"
+            },
+            {
+                "pageid": 20489338,
+                "ns": 0,
+                "title": "Medical simulation"
+            },
+            {
+                "pageid": 44151159,
+                "ns": 0,
+                "title": "Victoria (birthing simulator)"
+            },
+            {
+                "pageid": 31209381,
+                "ns": 0,
+                "title": "Medicine Unboxed"
+            },
+            {
+                "pageid": 40137580,
+                "ns": 0,
+                "title": "Meducation"
+            }
+        ]
+    }
+}

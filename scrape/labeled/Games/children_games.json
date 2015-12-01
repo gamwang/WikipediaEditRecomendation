@@ -1,0 +1,261 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "cmcontinue": "page|46495245204f4e20544845204d4f554e5441494e202847414d4529|32485806",
+        "continue": "-||"
+    },
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 32111384,
+                "ns": 0,
+                "title": "500 (ball game)"
+            },
+            {
+                "pageid": 10796456,
+                "ns": 0,
+                "title": "Ampe (game)"
+            },
+            {
+                "pageid": 43501641,
+                "ns": 0,
+                "title": "Ante Over"
+            },
+            {
+                "pageid": 22356586,
+                "ns": 0,
+                "title": "Australian handball"
+            },
+            {
+                "pageid": 6708832,
+                "ns": 0,
+                "title": "Bad egg"
+            },
+            {
+                "pageid": 8193853,
+                "ns": 0,
+                "title": "Bakunawa"
+            },
+            {
+                "pageid": 3333214,
+                "ns": 0,
+                "title": "Barrel of Monkeys (game)"
+            },
+            {
+                "pageid": 252609,
+                "ns": 0,
+                "title": "Battleship (game)"
+            },
+            {
+                "pageid": 15166184,
+                "ns": 0,
+                "title": "Bella Sara"
+            },
+            {
+                "pageid": 2982822,
+                "ns": 0,
+                "title": "Blanket fort"
+            },
+            {
+                "pageid": 29588288,
+                "ns": 0,
+                "title": "Blind man's buff"
+            },
+            {
+                "pageid": 34039159,
+                "ns": 0,
+                "title": "Bloody knuckles"
+            },
+            {
+                "pageid": 3349329,
+                "ns": 0,
+                "title": "Blow football"
+            },
+            {
+                "pageid": 19208133,
+                "ns": 0,
+                "title": "Box hockey"
+            },
+            {
+                "pageid": 2535574,
+                "ns": 0,
+                "title": "British Bulldog (game)"
+            },
+            {
+                "pageid": 5767724,
+                "ns": 0,
+                "title": "Buck buck"
+            },
+            {
+                "pageid": 13621199,
+                "ns": 0,
+                "title": "Button, button, who's got the button?"
+            },
+            {
+                "pageid": 2525156,
+                "ns": 0,
+                "title": "Butts Up"
+            },
+            {
+                "pageid": 521983,
+                "ns": 0,
+                "title": "Capture the flag"
+            },
+            {
+                "pageid": 38905371,
+                "ns": 0,
+                "title": "Cat and mouse (playground game)"
+            },
+            {
+                "pageid": 41884530,
+                "ns": 0,
+                "title": "Catch (game)"
+            },
+            {
+                "pageid": 7108182,
+                "ns": 0,
+                "title": "Childlore"
+            },
+            {
+                "pageid": 34631415,
+                "ns": 0,
+                "title": "Children's Games (Bruegel)"
+            },
+            {
+                "pageid": 7114965,
+                "ns": 0,
+                "title": "Chindro"
+            },
+            {
+                "pageid": 1485978,
+                "ns": 0,
+                "title": "Chinese handball"
+            },
+            {
+                "pageid": 1609828,
+                "ns": 0,
+                "title": "Chinese jump rope"
+            },
+            {
+                "pageid": 38905315,
+                "ns": 0,
+                "title": "Chinese wall (game)"
+            },
+            {
+                "pageid": 291405,
+                "ns": 0,
+                "title": "Chinese whispers"
+            },
+            {
+                "pageid": 5729639,
+                "ns": 0,
+                "title": "Chopsticks (hand game)"
+            },
+            {
+                "pageid": 44016007,
+                "ns": 0,
+                "title": "Clumsy Thief"
+            },
+            {
+                "pageid": 38905314,
+                "ns": 0,
+                "title": "Cocky laura"
+            },
+            {
+                "pageid": 14669907,
+                "ns": 0,
+                "title": "Color war"
+            },
+            {
+                "pageid": 437990,
+                "ns": 0,
+                "title": "Conkers"
+            },
+            {
+                "pageid": 340496,
+                "ns": 0,
+                "title": "Cooties"
+            },
+            {
+                "pageid": 2740215,
+                "ns": 0,
+                "title": "Crack the Whip"
+            },
+            {
+                "pageid": 15179176,
+                "ns": 0,
+                "title": "Creep Mouse"
+            },
+            {
+                "pageid": 40222967,
+                "ns": 0,
+                "title": "Cup game"
+            },
+            {
+                "pageid": 25698012,
+                "ns": 0,
+                "title": "Dal pat"
+            },
+            {
+                "pageid": 18013323,
+                "ns": 0,
+                "title": "Dandy shandy"
+            },
+            {
+                "pageid": 10531294,
+                "ns": 0,
+                "title": "Darebase"
+            },
+            {
+                "pageid": 19681317,
+                "ns": 0,
+                "title": "Don't Spill the Beans"
+            },
+            {
+                "pageid": 6875153,
+                "ns": 0,
+                "title": "Double Dutch (jump rope)"
+            },
+            {
+                "pageid": 28365988,
+                "ns": 0,
+                "title": "Down Down Baby"
+            },
+            {
+                "pageid": 1358317,
+                "ns": 0,
+                "title": "Dress-up"
+            },
+            {
+                "pageid": 25767152,
+                "ns": 0,
+                "title": "Duck, duck, goose"
+            },
+            {
+                "pageid": 10061923,
+                "ns": 0,
+                "title": "Eeper Weeper"
+            },
+            {
+                "pageid": 1570323,
+                "ns": 0,
+                "title": "Egg-and-spoon race"
+            },
+            {
+                "pageid": 20097441,
+                "ns": 0,
+                "title": "Egypte Kids"
+            },
+            {
+                "pageid": 23409707,
+                "ns": 0,
+                "title": "Elefun"
+            },
+            {
+                "pageid": 8943937,
+                "ns": 0,
+                "title": "Fingerplay"
+            }
+        ]
+    }
+}

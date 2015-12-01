@@ -1,0 +1,511 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "cmcontinue": "page|494e54454752414c204e4154494f4e414c49534d|4627713",
+        "continue": "-||"
+    },
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 23040,
+                "ns": 0,
+                "title": "Political philosophy"
+            },
+            {
+                "pageid": 67366,
+                "ns": 0,
+                "title": "Absolute monarchy"
+            },
+            {
+                "pageid": 5106007,
+                "ns": 0,
+                "title": "Agonism"
+            },
+            {
+                "pageid": 40556040,
+                "ns": 0,
+                "title": "Agrarian socialism"
+            },
+            {
+                "pageid": 312898,
+                "ns": 0,
+                "title": "American exceptionalism"
+            },
+            {
+                "pageid": 723088,
+                "ns": 0,
+                "title": "American Free Press"
+            },
+            {
+                "pageid": 32064959,
+                "ns": 0,
+                "title": "American Redoubt"
+            },
+            {
+                "pageid": 283205,
+                "ns": 0,
+                "title": "Anti-Americanism"
+            },
+            {
+                "pageid": 867979,
+                "ns": 0,
+                "title": "Anti-authoritarianism"
+            },
+            {
+                "pageid": 349889,
+                "ns": 0,
+                "title": "Anti-Federalism"
+            },
+            {
+                "pageid": 419068,
+                "ns": 0,
+                "title": "Anti-nationalism"
+            },
+            {
+                "pageid": 6422392,
+                "ns": 0,
+                "title": "Anti-patriotism"
+            },
+            {
+                "pageid": 30443666,
+                "ns": 0,
+                "title": "Anti-Western sentiment"
+            },
+            {
+                "pageid": 19698503,
+                "ns": 0,
+                "title": "Anti-Zionism"
+            },
+            {
+                "pageid": 18581389,
+                "ns": 0,
+                "title": "Antidisestablishmentarianism"
+            },
+            {
+                "pageid": 2297909,
+                "ns": 0,
+                "title": "Antiestablishmentarianism"
+            },
+            {
+                "pageid": 38777029,
+                "ns": 0,
+                "title": "Antimilitarism"
+            },
+            {
+                "pageid": 327630,
+                "ns": 0,
+                "title": "Asian values"
+            },
+            {
+                "pageid": 7718117,
+                "ns": 0,
+                "title": "Associationalism"
+            },
+            {
+                "pageid": 624968,
+                "ns": 0,
+                "title": "Atlanticism"
+            },
+            {
+                "pageid": 21347657,
+                "ns": 0,
+                "title": "Authoritarianism"
+            },
+            {
+                "pageid": 540715,
+                "ns": 0,
+                "title": "Behavioralism"
+            },
+            {
+                "pageid": 1230380,
+                "ns": 0,
+                "title": "Black populism"
+            },
+            {
+                "pageid": 36160565,
+                "ns": 0,
+                "title": "Bleeding-heart libertarianism"
+            },
+            {
+                "pageid": 2489971,
+                "ns": 0,
+                "title": "Burmese Way to Socialism"
+            },
+            {
+                "pageid": 2488327,
+                "ns": 0,
+                "title": "Byzantinism"
+            },
+            {
+                "pageid": 509436,
+                "ns": 0,
+                "title": "Caesaropapism"
+            },
+            {
+                "pageid": 38802958,
+                "ns": 0,
+                "title": "Canaanism"
+            },
+            {
+                "pageid": 27327454,
+                "ns": 0,
+                "title": "Capitalist peace"
+            },
+            {
+                "pageid": 12584282,
+                "ns": 0,
+                "title": "Carneiro's circumscription theory"
+            },
+            {
+                "pageid": 723060,
+                "ns": 0,
+                "title": "Willis Carto"
+            },
+            {
+                "pageid": 5836048,
+                "ns": 0,
+                "title": "Celine's laws"
+            },
+            {
+                "pageid": 39619035,
+                "ns": 0,
+                "title": "Centrism"
+            },
+            {
+                "pageid": 645713,
+                "ns": 0,
+                "title": "Chinese New Left"
+            },
+            {
+                "pageid": 1068780,
+                "ns": 0,
+                "title": "Christian existentialism"
+            },
+            {
+                "pageid": 48819,
+                "ns": 0,
+                "title": "Clash of Civilizations"
+            },
+            {
+                "pageid": 2332430,
+                "ns": 0,
+                "title": "Coattail effect"
+            },
+            {
+                "pageid": 28964679,
+                "ns": 0,
+                "title": "Collaborative e-democracy"
+            },
+            {
+                "pageid": 1808630,
+                "ns": 0,
+                "title": "Collective responsibility"
+            },
+            {
+                "pageid": 5708,
+                "ns": 0,
+                "title": "Collectivism"
+            },
+            {
+                "pageid": 40387494,
+                "ns": 0,
+                "title": "Commanding heights of the economy"
+            },
+            {
+                "pageid": 43375,
+                "ns": 0,
+                "title": "Communitarianism"
+            },
+            {
+                "pageid": 4283625,
+                "ns": 0,
+                "title": "Communization"
+            },
+            {
+                "pageid": 1798225,
+                "ns": 0,
+                "title": "Compact theory"
+            },
+            {
+                "pageid": 424141,
+                "ns": 0,
+                "title": "Compassionate conservatism"
+            },
+            {
+                "pageid": 1449511,
+                "ns": 0,
+                "title": "Concurrent majority"
+            },
+            {
+                "pageid": 5735,
+                "ns": 0,
+                "title": "Conscription"
+            },
+            {
+                "pageid": 1409458,
+                "ns": 0,
+                "title": "Consociationalism"
+            },
+            {
+                "pageid": 408891,
+                "ns": 0,
+                "title": "Corporate nationalism"
+            },
+            {
+                "pageid": 27619138,
+                "ns": 0,
+                "title": "Corporatism"
+            },
+            {
+                "pageid": 6997,
+                "ns": 0,
+                "title": "Corporatocracy"
+            },
+            {
+                "pageid": 599178,
+                "ns": 0,
+                "title": "Cosmopolitanism"
+            },
+            {
+                "pageid": 21128831,
+                "ns": 0,
+                "title": "Counterintelligence state"
+            },
+            {
+                "pageid": 41887454,
+                "ns": 0,
+                "title": "Dark Enlightenment"
+            },
+            {
+                "pageid": 179339,
+                "ns": 0,
+                "title": "Decadence"
+            },
+            {
+                "pageid": 168919,
+                "ns": 0,
+                "title": "Deliberative democracy"
+            },
+            {
+                "pageid": 8467077,
+                "ns": 0,
+                "title": "Democracy in Marxism"
+            },
+            {
+                "pageid": 412326,
+                "ns": 0,
+                "title": "Democratic peace theory"
+            },
+            {
+                "pageid": 2041027,
+                "ns": 0,
+                "title": "Democratic structuring"
+            },
+            {
+                "pageid": 30871249,
+                "ns": 0,
+                "title": "Democratic transhumanism"
+            },
+            {
+                "pageid": 33076435,
+                "ns": 0,
+                "title": "Demoicracy"
+            },
+            {
+                "pageid": 1868264,
+                "ns": 0,
+                "title": "Deviationism"
+            },
+            {
+                "pageid": 45562261,
+                "ns": 0,
+                "title": "Digital labor"
+            },
+            {
+                "pageid": 8805,
+                "ns": 0,
+                "title": "Distributism"
+            },
+            {
+                "pageid": 4627888,
+                "ns": 0,
+                "title": "Dual federalism"
+            },
+            {
+                "pageid": 745163,
+                "ns": 0,
+                "title": "Dual power"
+            },
+            {
+                "pageid": 24340653,
+                "ns": 0,
+                "title": "East–West dichotomy"
+            },
+            {
+                "pageid": 39993879,
+                "ns": 0,
+                "title": "Eastern Party in Greece"
+            },
+            {
+                "pageid": 7304072,
+                "ns": 0,
+                "title": "Eco-communalism"
+            },
+            {
+                "pageid": 39699737,
+                "ns": 0,
+                "title": "Eco-socialism"
+            },
+            {
+                "pageid": 21985775,
+                "ns": 0,
+                "title": "Eliminationism"
+            },
+            {
+                "pageid": 256749,
+                "ns": 0,
+                "title": "Enlightened absolutism"
+            },
+            {
+                "pageid": 3492548,
+                "ns": 0,
+                "title": "Equality before the law"
+            },
+            {
+                "pageid": 21482288,
+                "ns": 0,
+                "title": "Equality of sacrifice"
+            },
+            {
+                "pageid": 3808132,
+                "ns": 0,
+                "title": "Ethnopluralism"
+            },
+            {
+                "pageid": 13774191,
+                "ns": 0,
+                "title": "Expansionism"
+            },
+            {
+                "pageid": 12189319,
+                "ns": 0,
+                "title": "Expansionist nationalism"
+            },
+            {
+                "pageid": 428002,
+                "ns": 0,
+                "title": "Extremism"
+            },
+            {
+                "pageid": 4843627,
+                "ns": 0,
+                "title": "List of Fascist movements"
+            },
+            {
+                "pageid": 11542,
+                "ns": 0,
+                "title": "Federalism"
+            },
+            {
+                "pageid": 4032505,
+                "ns": 0,
+                "title": "Fiscal conservatism"
+            },
+            {
+                "pageid": 45363962,
+                "ns": 0,
+                "title": "Founderism"
+            },
+            {
+                "pageid": 8348744,
+                "ns": 0,
+                "title": "Fusionism"
+            },
+            {
+                "pageid": 4144983,
+                "ns": 0,
+                "title": "Greater Middle East"
+            },
+            {
+                "pageid": 98514,
+                "ns": 0,
+                "title": "Green anarchism"
+            },
+            {
+                "pageid": 602148,
+                "ns": 0,
+                "title": "Green liberalism"
+            },
+            {
+                "pageid": 532336,
+                "ns": 0,
+                "title": "Green syndicalism"
+            },
+            {
+                "pageid": 24803285,
+                "ns": 0,
+                "title": "Gyorin"
+            },
+            {
+                "pageid": 22500064,
+                "ns": 0,
+                "title": "Heathian anarchism"
+            },
+            {
+                "pageid": 38786381,
+                "ns": 0,
+                "title": "Hellenoturkism"
+            },
+            {
+                "pageid": 43349992,
+                "ns": 0,
+                "title": "Historical determinism"
+            },
+            {
+                "pageid": 24675586,
+                "ns": 0,
+                "title": "Homonoia"
+            },
+            {
+                "pageid": 2040766,
+                "ns": 0,
+                "title": "Idealism in international relations"
+            },
+            {
+                "pageid": 46958451,
+                "ns": 0,
+                "title": "Immaterial labor"
+            },
+            {
+                "pageid": 15316,
+                "ns": 0,
+                "title": "Imperialism"
+            },
+            {
+                "pageid": 21395995,
+                "ns": 0,
+                "title": "Inclusive Management"
+            },
+            {
+                "pageid": 62450,
+                "ns": 0,
+                "title": "Independence"
+            },
+            {
+                "pageid": 15181,
+                "ns": 0,
+                "title": "Individualism"
+            },
+            {
+                "pageid": 14936,
+                "ns": 0,
+                "title": "Individualist anarchism"
+            },
+            {
+                "pageid": 46967221,
+                "ns": 0,
+                "title": "Infrastructure for Peace"
+            }
+        ]
+    }
+}

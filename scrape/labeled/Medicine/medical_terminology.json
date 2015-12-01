@@ -1,0 +1,261 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "cmcontinue": "page|42494f545241554d41|22050868",
+        "continue": "-||"
+    },
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 8611983,
+                "ns": 0,
+                "title": "List of medical roots, suffixes and prefixes"
+            },
+            {
+                "pageid": 6198688,
+                "ns": 0,
+                "title": "Medical terminology"
+            },
+            {
+                "pageid": 38892935,
+                "ns": 0,
+                "title": "Acholia"
+            },
+            {
+                "pageid": 3457665,
+                "ns": 0,
+                "title": "Acquired disorder"
+            },
+            {
+                "pageid": 25653086,
+                "ns": 0,
+                "title": "Active placebo"
+            },
+            {
+                "pageid": 16453539,
+                "ns": 0,
+                "title": "Acute (medicine)"
+            },
+            {
+                "pageid": 5089337,
+                "ns": 0,
+                "title": "Acute abdomen"
+            },
+            {
+                "pageid": 4573741,
+                "ns": 0,
+                "title": "Acute pericarditis"
+            },
+            {
+                "pageid": 6826591,
+                "ns": 0,
+                "title": "Adhesion (medicine)"
+            },
+            {
+                "pageid": 35416871,
+                "ns": 0,
+                "title": "Adiadochokinesia"
+            },
+            {
+                "pageid": 12237479,
+                "ns": 0,
+                "title": "Admission note"
+            },
+            {
+                "pageid": 18462506,
+                "ns": 0,
+                "title": "Adrenergic storm"
+            },
+            {
+                "pageid": 3522791,
+                "ns": 0,
+                "title": "Adventitiousness"
+            },
+            {
+                "pageid": 1474961,
+                "ns": 0,
+                "title": "Adverse effect"
+            },
+            {
+                "pageid": 372527,
+                "ns": 0,
+                "title": "Afferent"
+            },
+            {
+                "pageid": 2054607,
+                "ns": 0,
+                "title": "Age of onset"
+            },
+            {
+                "pageid": 2281166,
+                "ns": 0,
+                "title": "Agenesis"
+            },
+            {
+                "pageid": 169509,
+                "ns": 0,
+                "title": "Agnosia"
+            },
+            {
+                "pageid": 500878,
+                "ns": 0,
+                "title": "Agonist"
+            },
+            {
+                "pageid": 381552,
+                "ns": 0,
+                "title": "Allopathic medicine"
+            },
+            {
+                "pageid": 31725255,
+                "ns": 0,
+                "title": "Allow natural death"
+            },
+            {
+                "pageid": 168041,
+                "ns": 0,
+                "title": "Anatomical terms of location"
+            },
+            {
+                "pageid": 31101674,
+                "ns": 0,
+                "title": "Anginal equivalent"
+            },
+            {
+                "pageid": 7075199,
+                "ns": 0,
+                "title": "Anterior ramus of spinal nerve"
+            },
+            {
+                "pageid": 4334788,
+                "ns": 0,
+                "title": "Aplasia"
+            },
+            {
+                "pageid": 8241941,
+                "ns": 0,
+                "title": "Arrested development"
+            },
+            {
+                "pageid": 22358709,
+                "ns": 0,
+                "title": "Assessment and plan"
+            },
+            {
+                "pageid": 602790,
+                "ns": 0,
+                "title": "Asymptomatic"
+            },
+            {
+                "pageid": 13090840,
+                "ns": 0,
+                "title": "Asynergy"
+            },
+            {
+                "pageid": 2905651,
+                "ns": 0,
+                "title": "Atony"
+            },
+            {
+                "pageid": 2122745,
+                "ns": 0,
+                "title": "Atresia"
+            },
+            {
+                "pageid": 19415143,
+                "ns": 0,
+                "title": "Auditory agnosia"
+            },
+            {
+                "pageid": 2555865,
+                "ns": 0,
+                "title": "Aura (symptom)"
+            },
+            {
+                "pageid": 9121494,
+                "ns": 0,
+                "title": "Autoagglutination"
+            },
+            {
+                "pageid": 25541788,
+                "ns": 0,
+                "title": "Autoamputation"
+            },
+            {
+                "pageid": 5281756,
+                "ns": 0,
+                "title": "Autonomic dysreflexia"
+            },
+            {
+                "pageid": 42591787,
+                "ns": 0,
+                "title": "Axial line (dermatomes)"
+            },
+            {
+                "pageid": 20839616,
+                "ns": 0,
+                "title": "Axon terminal"
+            },
+            {
+                "pageid": 1893061,
+                "ns": 0,
+                "title": "Azygos"
+            },
+            {
+                "pageid": 17014639,
+                "ns": 0,
+                "title": "B type inclusion"
+            },
+            {
+                "pageid": 12232145,
+                "ns": 0,
+                "title": "Ballard Maturational Assessment"
+            },
+            {
+                "pageid": 12058746,
+                "ns": 0,
+                "title": "Barbotage"
+            },
+            {
+                "pageid": 9799957,
+                "ns": 0,
+                "title": "Baseline (medicine)"
+            },
+            {
+                "pageid": 1342811,
+                "ns": 0,
+                "title": "Benign tumor"
+            },
+            {
+                "pageid": 11693016,
+                "ns": 0,
+                "title": "Benignity"
+            },
+            {
+                "pageid": 20932009,
+                "ns": 0,
+                "title": "Bethesda system"
+            },
+            {
+                "pageid": 41940940,
+                "ns": 0,
+                "title": "Bethesda system for reporting thyroid cytopathology"
+            },
+            {
+                "pageid": 42039753,
+                "ns": 0,
+                "title": "Biliary microlithiasis"
+            },
+            {
+                "pageid": 45064147,
+                "ns": 0,
+                "title": "Biliary pseudolithiasis"
+            },
+            {
+                "pageid": 45063599,
+                "ns": 0,
+                "title": "Biliary sludge"
+            }
+        ]
+    }
+}

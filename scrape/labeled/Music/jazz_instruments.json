@@ -1,0 +1,87 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 9079,
+                "ns": 0,
+                "title": "Drum kit"
+            },
+            {
+                "pageid": 11067482,
+                "ns": 0,
+                "title": "Goema"
+            },
+            {
+                "pageid": 35611692,
+                "ns": 0,
+                "title": "Horn in jazz"
+            },
+            {
+                "pageid": 1126518,
+                "ns": 0,
+                "title": "Jazz bass"
+            },
+            {
+                "pageid": 14726370,
+                "ns": 0,
+                "title": "Jazz drumming"
+            },
+            {
+                "pageid": 34737710,
+                "ns": 0,
+                "title": "Jazz flute"
+            },
+            {
+                "pageid": 16141,
+                "ns": 0,
+                "title": "Jazz guitar"
+            },
+            {
+                "pageid": 1992406,
+                "ns": 0,
+                "title": "Jazz piano"
+            },
+            {
+                "pageid": 44187776,
+                "ns": 0,
+                "title": "Jazz trombone"
+            },
+            {
+                "pageid": 20352124,
+                "ns": 0,
+                "title": "Jazz violin"
+            },
+            {
+                "pageid": 26795,
+                "ns": 0,
+                "title": "Saxophone"
+            },
+            {
+                "pageid": 7661595,
+                "ns": 0,
+                "title": "Sitar in jazz"
+            },
+            {
+                "pageid": 9134739,
+                "ns": 0,
+                "title": "Strumbola"
+            },
+            {
+                "pageid": 29837,
+                "ns": 0,
+                "title": "Trombone"
+            },
+            {
+                "pageid": 30353,
+                "ns": 0,
+                "title": "Trumpet"
+            },
+            {
+                "pageid": 52872,
+                "ns": 0,
+                "title": "Vibraphone"
+            }
+        ]
+    }
+}
