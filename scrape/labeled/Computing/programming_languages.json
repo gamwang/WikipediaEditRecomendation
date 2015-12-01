@@ -1,0 +1,507 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 38172349,
+                "ns": 0,
+                "title": "ActiveVFP"
+            },
+            {
+                "pageid": 188190,
+                "ns": 0,
+                "title": "Arc (programming language)"
+            },
+            {
+                "pageid": 3509665,
+                "ns": 0,
+                "title": "BBN LISP"
+            },
+            {
+                "pageid": 2303110,
+                "ns": 0,
+                "title": "Bistro (programming language)"
+            },
+            {
+                "pageid": 527946,
+                "ns": 0,
+                "title": "Cecil (programming language)"
+            },
+            {
+                "pageid": 1042463,
+                "ns": 0,
+                "title": "Cel (programming language)"
+            },
+            {
+                "pageid": 31540643,
+                "ns": 0,
+                "title": "Ciao (programming language)"
+            },
+            {
+                "pageid": 6068,
+                "ns": 0,
+                "title": "Common Lisp"
+            },
+            {
+                "pageid": 908540,
+                "ns": 0,
+                "title": "Euler (programming language)"
+            },
+            {
+                "pageid": 4158686,
+                "ns": 0,
+                "title": "EuLisp"
+            },
+            {
+                "pageid": 46600256,
+                "ns": 0,
+                "title": "Extempore (software)"
+            },
+            {
+                "pageid": 899874,
+                "ns": 0,
+                "title": "F-Script (programming language)"
+            },
+            {
+                "pageid": 21628757,
+                "ns": 0,
+                "title": "Falcon (programming language)"
+            },
+            {
+                "pageid": 29364359,
+                "ns": 0,
+                "title": "FPr (programming language)"
+            },
+            {
+                "pageid": 4410977,
+                "ns": 0,
+                "title": "Geometric Description Language"
+            },
+            {
+                "pageid": 42257880,
+                "ns": 0,
+                "title": "Hack (programming language)"
+            },
+            {
+                "pageid": 1882856,
+                "ns": 0,
+                "title": "Harbour (software)"
+            },
+            {
+                "pageid": 11936652,
+                "ns": 0,
+                "title": "Incr Tcl"
+            },
+            {
+                "pageid": 323340,
+                "ns": 0,
+                "title": "Io (programming language)"
+            },
+            {
+                "pageid": 11946506,
+                "ns": 0,
+                "title": "Itk"
+            },
+            {
+                "pageid": 73227,
+                "ns": 0,
+                "title": "J (programming language)"
+            },
+            {
+                "pageid": 9845,
+                "ns": 0,
+                "title": "JavaScript"
+            },
+            {
+                "pageid": 38455554,
+                "ns": 0,
+                "title": "Julia (programming language)"
+            },
+            {
+                "pageid": 8241243,
+                "ns": 0,
+                "title": "Keykit"
+            },
+            {
+                "pageid": 524247,
+                "ns": 0,
+                "title": "Lasso (programming language)"
+            },
+            {
+                "pageid": 18016,
+                "ns": 0,
+                "title": "Lisp (programming language)"
+            },
+            {
+                "pageid": 3337134,
+                "ns": 0,
+                "title": "Little Smalltalk"
+            },
+            {
+                "pageid": 18334,
+                "ns": 0,
+                "title": "Logo (programming language)"
+            },
+            {
+                "pageid": 46150,
+                "ns": 0,
+                "title": "Lua (programming language)"
+            },
+            {
+                "pageid": 2988758,
+                "ns": 0,
+                "title": "Magik (programming language)"
+            },
+            {
+                "pageid": 20412,
+                "ns": 0,
+                "title": "MATLAB"
+            },
+            {
+                "pageid": 586499,
+                "ns": 0,
+                "title": "MDL (programming language)"
+            },
+            {
+                "pageid": 36276822,
+                "ns": 0,
+                "title": "MexScript"
+            },
+            {
+                "pageid": 3359079,
+                "ns": 0,
+                "title": "MIIS (programming language)"
+            },
+            {
+                "pageid": 940605,
+                "ns": 0,
+                "title": "MultiLisp"
+            },
+            {
+                "pageid": 19723,
+                "ns": 0,
+                "title": "MUMPS"
+            },
+            {
+                "pageid": 15110419,
+                "ns": 0,
+                "title": "Neko (programming language)"
+            },
+            {
+                "pageid": 1964813,
+                "ns": 0,
+                "title": "NewLISP"
+            },
+            {
+                "pageid": 7415350,
+                "ns": 0,
+                "title": "NIL (programming language)"
+            },
+            {
+                "pageid": 39809523,
+                "ns": 0,
+                "title": "Objective-C"
+            },
+            {
+                "pageid": 256916,
+                "ns": 0,
+                "title": "Oz (programming language)"
+            },
+            {
+                "pageid": 23939,
+                "ns": 0,
+                "title": "Perl"
+            },
+            {
+                "pageid": 23490878,
+                "ns": 0,
+                "title": "Pharo"
+            },
+            {
+                "pageid": 24131,
+                "ns": 0,
+                "title": "PHP"
+            },
+            {
+                "pageid": 25055375,
+                "ns": 0,
+                "title": "PicoLisp"
+            },
+            {
+                "pageid": 4243267,
+                "ns": 0,
+                "title": "Portable Standard Lisp"
+            },
+            {
+                "pageid": 40538699,
+                "ns": 0,
+                "title": "Potion (programming language)"
+            },
+            {
+                "pageid": 23862,
+                "ns": 0,
+                "title": "Python (programming language)"
+            },
+            {
+                "pageid": 18805500,
+                "ns": 0,
+                "title": "Python for S60"
+            },
+            {
+                "pageid": 26384,
+                "ns": 0,
+                "title": "Rebol"
+            },
+            {
+                "pageid": 243402,
+                "ns": 0,
+                "title": "Revolution (development environment)"
+            },
+            {
+                "pageid": 25768,
+                "ns": 0,
+                "title": "Ruby (programming language)"
+            },
+            {
+                "pageid": 5185133,
+                "ns": 0,
+                "title": "RunRev"
+            },
+            {
+                "pageid": 60265,
+                "ns": 0,
+                "title": "Self (programming language)"
+            },
+            {
+                "pageid": 28319,
+                "ns": 0,
+                "title": "Smalltalk"
+            },
+            {
+                "pageid": 17102443,
+                "ns": 0,
+                "title": "Smalltalk YX"
+            },
+            {
+                "pageid": 37426,
+                "ns": 0,
+                "title": "Squeak"
+            },
+            {
+                "pageid": 2116391,
+                "ns": 0,
+                "title": "*Lisp"
+            },
+            {
+                "pageid": 2581887,
+                "ns": 0,
+                "title": "StepTalk"
+            },
+            {
+                "pageid": 1569550,
+                "ns": 0,
+                "title": "Strongtalk"
+            },
+            {
+                "pageid": 346978,
+                "ns": 0,
+                "title": "SuperCollider"
+            },
+            {
+                "pageid": 39880682,
+                "ns": 0,
+                "title": "Tcl"
+            },
+            {
+                "pageid": 2474113,
+                "ns": 0,
+                "title": "Tcl/Java"
+            },
+            {
+                "pageid": 11936626,
+                "ns": 0,
+                "title": "Tcllib"
+            },
+            {
+                "pageid": 33150834,
+                "ns": 0,
+                "title": "Urbiscript"
+            },
+            {
+                "pageid": 14465871,
+                "ns": 0,
+                "title": "Windows PowerShell"
+            },
+            {
+                "pageid": 40205956,
+                "ns": 0,
+                "title": "Wolfram Language"
+            }
+            {
+                "pageid": 1242,
+                "ns": 0,
+                "title": "Ada (programming language)"
+            },
+            {
+                "pageid": 11517646,
+                "ns": 0,
+                "title": "Adenine (programming language)"
+            },
+            {
+                "pageid": 28676655,
+                "ns": 0,
+                "title": "Ateji PX"
+            },
+            {
+                "pageid": 1147624,
+                "ns": 0,
+                "title": "Boo (programming language)"
+            },
+            {
+                "pageid": 72038,
+                "ns": 0,
+                "title": "C++"
+            },
+            {
+                "pageid": 6021,
+                "ns": 0,
+                "title": "C (programming language)"
+            },
+            {
+                "pageid": 2356196,
+                "ns": 0,
+                "title": "C Sharp (programming language)"
+            },
+            {
+                "pageid": 6799,
+                "ns": 0,
+                "title": "COBOL"
+            },
+            {
+                "pageid": 243881,
+                "ns": 0,
+                "title": "D (programming language)"
+            },
+            {
+                "pageid": 239964,
+                "ns": 0,
+                "title": "F Sharp (programming language)"
+            },
+            {
+                "pageid": 18969637,
+                "ns": 0,
+                "title": "Fantom (programming language)"
+            },
+            {
+                "pageid": 11168,
+                "ns": 0,
+                "title": "Fortran"
+            },
+            {
+                "pageid": 25291443,
+                "ns": 0,
+                "title": "Genie (programming language)"
+            },
+            {
+                "pageid": 3227186,
+                "ns": 0,
+                "title": "GNU Pascal"
+            },
+            {
+                "pageid": 25039021,
+                "ns": 0,
+                "title": "Go (programming language)"
+            },
+            {
+                "pageid": 42257880,
+                "ns": 0,
+                "title": "Hack (programming language)"
+            },
+            {
+                "pageid": 27404990,
+                "ns": 0,
+                "title": "Haskell (programming language)"
+            },
+            {
+                "pageid": 15881,
+                "ns": 0,
+                "title": "Java (programming language)"
+            },
+            {
+                "pageid": 41819039,
+                "ns": 0,
+                "title": "Kotlin (programming language)"
+            },
+            {
+                "pageid": 20607,
+                "ns": 0,
+                "title": "ML (programming language)"
+            },
+            {
+                "pageid": 45413679,
+                "ns": 0,
+                "title": "Nim (programming language)"
+            },
+            {
+                "pageid": 3226664,
+                "ns": 0,
+                "title": "Pascal/MT+"
+            },
+            {
+                "pageid": 2603123,
+                "ns": 0,
+                "title": "PEARL (programming language)"
+            },
+            {
+                "pageid": 27900530,
+                "ns": 0,
+                "title": "Plus (programming language)"
+            },
+            {
+                "pageid": 3227049,
+                "ns": 0,
+                "title": "Prospero Pascal"
+            },
+            {
+                "pageid": 29414838,
+                "ns": 0,
+                "title": "Rust (programming language)"
+            },
+            {
+                "pageid": 3254510,
+                "ns": 0,
+                "title": "Scala (programming language)"
+            },
+            {
+                "pageid": 36346048,
+                "ns": 0,
+                "title": "Seed7"
+            },
+            {
+                "pageid": 291874,
+                "ns": 0,
+                "title": "SPARK (programming language)"
+            },
+            {
+                "pageid": 42946389,
+                "ns": 0,
+                "title": "Swift (programming language)"
+            },
+            {
+                "pageid": 39874090,
+                "ns": 0,
+                "title": "Umple"
+            },
+            {
+                "pageid": 12655903,
+                "ns": 0,
+                "title": "Vala (programming language)"
+            },
+            {
+                "pageid": 1741668,
+                "ns": 0,
+                "title": "Visual Prolog"
+            }
+        ]
+    }
+}

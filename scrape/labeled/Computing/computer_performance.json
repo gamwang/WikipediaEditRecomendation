@@ -1,0 +1,227 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 9007528,
+                "ns": 0,
+                "title": "Computer performance"
+            },
+            {
+                "pageid": 145128,
+                "ns": 0,
+                "title": "Algorithmic efficiency"
+            },
+            {
+                "pageid": 43451153,
+                "ns": 0,
+                "title": "American Super Computing Leadership Act"
+            },
+            {
+                "pageid": 8974925,
+                "ns": 0,
+                "title": "Apdex"
+            },
+            {
+                "pageid": 24230081,
+                "ns": 0,
+                "title": "Argus Monitor"
+            },
+            {
+                "pageid": 4573497,
+                "ns": 0,
+                "title": "BAPCo consortium"
+            },
+            {
+                "pageid": 6894800,
+                "ns": 0,
+                "title": "Branch table"
+            },
+            {
+                "pageid": 27644383,
+                "ns": 0,
+                "title": "Browser speed test"
+            },
+            {
+                "pageid": 8940918,
+                "ns": 0,
+                "title": "Computer Measurement Group"
+            },
+            {
+                "pageid": 6008500,
+                "ns": 0,
+                "title": "CPU time"
+            },
+            {
+                "pageid": 648697,
+                "ns": 0,
+                "title": "CPU-bound"
+            },
+            {
+                "pageid": 10134168,
+                "ns": 0,
+                "title": "DiskSpeed32"
+            },
+            {
+                "pageid": 45199965,
+                "ns": 0,
+                "title": "Energy proportional computing"
+            },
+            {
+                "pageid": 33178416,
+                "ns": 0,
+                "title": "GPU-Z"
+            },
+            {
+                "pageid": 22914271,
+                "ns": 0,
+                "title": "Housekeeping (computing)"
+            },
+            {
+                "pageid": 8148765,
+                "ns": 0,
+                "title": "HP SiteScope"
+            },
+            {
+                "pageid": 48574505,
+                "ns": 2,
+                "title": "User:HPE BPM Docs/sandbox"
+            },
+            {
+                "pageid": 20684,
+                "ns": 0,
+                "title": "Instructions per second"
+            },
+            {
+                "pageid": 2390873,
+                "ns": 0,
+                "title": "IOPS"
+            },
+            {
+                "pageid": 31801010,
+                "ns": 0,
+                "title": "Ksar (Unix sar grapher)"
+            },
+            {
+                "pageid": 41953450,
+                "ns": 0,
+                "title": "Logentries"
+            },
+            {
+                "pageid": 356457,
+                "ns": 0,
+                "title": "Lookup table"
+            },
+            {
+                "pageid": 41980813,
+                "ns": 0,
+                "title": "Mem (computing)"
+            },
+            {
+                "pageid": 723483,
+                "ns": 0,
+                "title": "Memoization"
+            },
+            {
+                "pageid": 39608502,
+                "ns": 0,
+                "title": "Metafor Software"
+            },
+            {
+                "pageid": 13624133,
+                "ns": 0,
+                "title": "Microprocessor chronology"
+            },
+            {
+                "pageid": 2505273,
+                "ns": 0,
+                "title": "Million service units"
+            },
+            {
+                "pageid": 2657409,
+                "ns": 0,
+                "title": "MIPS-year"
+            },
+            {
+                "pageid": 7527260,
+                "ns": 0,
+                "title": "Motherboard Monitor"
+            },
+            {
+                "pageid": 33693729,
+                "ns": 0,
+                "title": "New Relic"
+            },
+            {
+                "pageid": 25715841,
+                "ns": 0,
+                "title": "Object code optimizer"
+            },
+            {
+                "pageid": 41013676,
+                "ns": 0,
+                "title": "PA Server Monitor"
+            },
+            {
+                "pageid": 42617007,
+                "ns": 0,
+                "title": "PCKeeper"
+            },
+            {
+                "pageid": 47322010,
+                "ns": 0,
+                "title": "PerfKitBenchmarker"
+            },
+            {
+                "pageid": 21083775,
+                "ns": 0,
+                "title": "Process Lasso"
+            },
+            {
+                "pageid": 31045939,
+                "ns": 0,
+                "title": "Processor Value Unit"
+            },
+            {
+                "pageid": 4256039,
+                "ns": 0,
+                "title": "Query throughput"
+            },
+            {
+                "pageid": 19860955,
+                "ns": 0,
+                "title": "Sar (Unix)"
+            },
+            {
+                "pageid": 8327133,
+                "ns": 0,
+                "title": "SDET"
+            },
+            {
+                "pageid": 20260062,
+                "ns": 0,
+                "title": "SLAMD Server"
+            },
+            {
+                "pageid": 12332798,
+                "ns": 0,
+                "title": "Software lockout"
+            },
+            {
+                "pageid": 4261159,
+                "ns": 0,
+                "title": "SPEC XPC"
+            },
+            {
+                "pageid": 322550,
+                "ns": 0,
+                "title": "Standard Performance Evaluation Corporation"
+            },
+            {
+                "pageid": 4017168,
+                "ns": 0,
+                "title": "Transfer (computing)"
+            }
+        ]
+    }
+}
