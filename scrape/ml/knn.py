@@ -4,13 +4,14 @@ from sklearn.decomposition import PCA
 from sklearn.metrics import accuracy_score
 from matplotlib import pyplot as plt
 import numpy as np
+import requests
 import json
 from sets import Set
 
 N_NEIGHBORS = 15
 
 def get_data(count):
-    f = open('./articles_with_categories.json', 'r')
+    f = open('../articles_with_categories.json', 'r')
     objs = f.read().split('\n')
     ids = []
     articles = []
@@ -32,14 +33,23 @@ def get_data(count):
         i += 1
     return ids, articles, labels
 
-
 def main():
-    ids, intros, labels = get_data(1000)
+    N = 1500
+    split = 0.8
+    split_index = int(N * split)
+    ids, intros, labels = get_data(2000)
     categories = list(Set(labels))
     labels = map(lambda x: categories.index(x), labels)
 
-    train_ids, train_intros, train_labels = ids[:800], intros[:800], labels[:800]
-    test_ids, test_intros, test_labels = ids[800:], intros[800:], labels[800:]
+    #train data
+    train_ids = ids[:split_index]
+    train_intros = intros[:split_index]
+    train_labels = labels[:split_index]
+
+    #test data
+    test_ids = ids[split_index:]
+    test_intros = intros[split_index:]
+    test_labels = labels[split_index:]
 
     featurizer = TfidfVectorizer(analyzer='word', stop_words='english',
             ngram_range=(1,3), min_df=0.05)
@@ -49,10 +59,12 @@ def main():
     classifier = KNeighborsClassifier(N_NEIGHBORS, weights='distance')
     classifier.fit(X_train, train_labels)
 
+    print len(X_train.toarray())
+
+
     pred = classifier.predict(X_test)
     score = accuracy_score(test_labels, pred)
     print score
-
 
 if __name__ == "__main__":
     main()
