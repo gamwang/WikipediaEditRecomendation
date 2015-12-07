@@ -11,7 +11,7 @@ import matplotlib.cm as cm
 from sets import Set
 
 def get_data(count):
-    f = open('./articles.json', 'r')
+    f = open('../articles.json', 'r')
     objs = f.read().split('\n')
     ids = []
     articles = []

@@ -1,5 +1,6 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.neighbors import KNeighborsClassifier
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.decomposition import PCA
 from sklearn.metrics import accuracy_score
 from matplotlib import pyplot as plt
@@ -8,7 +9,7 @@ import requests
 import json
 from sets import Set
 
-N_NEIGHBORS = 41
+N_NEIGHBORS = 15
 
 def get_data(count):
     f = open('../articles_with_categories.json', 'r')
@@ -56,11 +57,8 @@ def main():
     X_train = featurizer.fit_transform(train_intros)
     X_test = featurizer.transform(test_intros)
 
-    classifier = KNeighborsClassifier(N_NEIGHBORS, weights='distance')
+    classifier = RandomForestClassifier()
     classifier.fit(X_train, train_labels)
-
-    print len(X_train.toarray())
-
 
     pred = classifier.predict(X_test)
     score = accuracy_score(test_labels, pred)

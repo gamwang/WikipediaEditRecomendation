@@ -46,9 +46,9 @@ def get_data(count):
 def featurize(data):
     ngram_vectorizer = CountVectorizer(analyzer='word', ngram_range=(1, 3), min_df=1)
     counts = ngram_vectorizer.fit_transform(data)
-    f_names = ngram_vectorizer.get_feature_names() 
-    f_vals = counts.toarray().astype(int) 
-    return f_names, f_vals 
+    f_names = ngram_vectorizer.get_feature_names()
+    f_vals = counts.toarray().astype(int)
+    return f_names, f_vals
 
 def filter_features(f_names, f_vals, thresh):
     keep_list = []
@@ -67,9 +67,9 @@ def filter_features(f_names, f_vals, thresh):
     return out_names, out_vals
 
 def tfidf_weights(f_vals):
-    transformer = TfidfTransformer() 
+    transformer = TfidfTransformer()
     tfidf = transformer.fit_transform(f_vals)
-    return tfidf.toarray() 
+    return tfidf.toarray()
 
 def get_kmeans_estimater(data, n):
     estimater = KMeans(init='k-means++', n_clusters=n, n_init=10, max_iter=400)
@@ -101,11 +101,11 @@ def get_adaboost():
     return clf
 
 def graph(X):
-    pass    
+    pass
 
 def plot_elbow_method(X):
     start = time.time()
-    k_range = range(1,1000,50) 
+    k_range = range(1,1000,50)
     #k_range = [1, 5, 20, 50, 100, 500, 1000]
     # Percentage of variance explained is the ratio of the between-group variance to the total variance, also known as an F-test.
     k_means_var = [get_kmeans_estimater(X, k) for k in k_range]
@@ -157,7 +157,7 @@ def filter_words(text):
 
 def accuracy_test_rf(X_tr, y_tr, X_t, y_t):
     rf_cl = get_rf(X_tr, y_tr)
-    y_hat = rf_cl.predict(X_t) 
+    y_hat = rf_cl.predict(X_t)
     length = len(y_hat)
     count = 0
     for i in range(0, len(y_hat)):
@@ -248,25 +248,25 @@ def main():
     # K Means Cross Validation
     cross_validation(X, true_labels, 20, accuracy_test_km)
 
-    # Choose K using "Elbow method"/ F-Test 
+    # Choose K using "Elbow method"/ F-Test
     if testing:
         plot_elbow_method(X)
-    
+
     # Number of clusters
     k = 5 # Choose k using elbow method
 
     # DO CLUSTERING HERE (LEGACY CODE)
     estimater, km_labels =  cluster_n(X, k)
-    classification = dict(zip(ids, km_labels)) 
-    div_lbls = get_output(km_labels, X, k) 
+    classification = dict(zip(ids, km_labels))
+    div_lbls = get_output(km_labels, X, k)
 
     # Performance Evaluation
     pca = PCA(n_components=2).fit(X.T)
     #do_performance_evaluation(pca.components_.T)
- 
+
     # GRAPHING
     num_feats = len(f_names)
-    reduced_X = PCA(n_components=2).fit_transform(X) 
+    reduced_X = PCA(n_components=2).fit_transform(X)
     est_graph, lbls_graph = cluster_n(reduced_X, k)
     div_lbls_graph = get_output(lbls_graph, reduced_X, k)
     # Get 10 diff colors
