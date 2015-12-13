@@ -1,5 +1,4 @@
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.neighbors import KNeighborsClassifier
+from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.decomposition import PCA
 from sklearn.metrics import accuracy_score
@@ -8,8 +7,6 @@ import numpy as np
 import requests
 import json
 from sets import Set
-
-N_NEIGHBORS = 15
 
 def get_data(count):
     f = open('../articles_with_categories.json', 'r')
@@ -52,7 +49,9 @@ def main():
     test_intros = intros[split_index:]
     test_labels = labels[split_index:]
 
-    featurizer = TfidfVectorizer(analyzer='word', stop_words='english',
+    #featurizer = TfidfVectorizer(analyzer='word', stop_words='english',
+    #        ngram_range=(1,3), min_df=0.03)
+    featurizer = CountVectorizer(analyzer='word', stop_words='english',
             ngram_range=(1,3), min_df=0.03)
     X_train = featurizer.fit_transform(train_intros)
     X_test = featurizer.transform(test_intros)
