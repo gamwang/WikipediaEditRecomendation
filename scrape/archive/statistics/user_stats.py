@@ -1,4 +1,5 @@
 import json
+import matplotlib.pyplot as plt
 from sets import Set
 from collections import Counter
 
@@ -34,9 +35,12 @@ def main():
                         counts.append(len(contribs))
 
     average = total/users
-    counts = Counter(counts)
     print average
-    print counts
+    plt.hist(counts)
+    plt.title("Contributor Histogram")
+    plt.xlabel("Number of Contributions")
+    plt.ylabel("Number of Contributors")
+    plt.show()
 
 
 main()

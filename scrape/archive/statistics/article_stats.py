@@ -1,6 +1,7 @@
 import json
 from sets import Set
 from collections import Counter
+import matplotlib.pyplot as plt
 
 
 def main():
@@ -31,8 +32,11 @@ def main():
                 counts.append(len(temp))
 
     average = total/articles
-    counts = Counter(counts)
     print average
-    print counts
+    plt.hist(counts)
+    plt.xlabel("Number of Words in Introductory Paragraph")
+    plt.ylabel("Number of Articles")
+    plt.title("Article Histogram")
+    plt.show()
 
 main()
