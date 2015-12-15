@@ -57,11 +57,11 @@ def main():
     test_intros = intros[split_index:]
     test_labels = labels[split_index:]
 
-    """
     featurizer = TfidfVectorizer(analyzer='word', stop_words='english',
             ngram_range=(1,3), min_df=0.03)
     """
     featurizer = CountVectorizer(analyzer='word', stop_words='english', ngram_range=(1,3), min_df=0.03)
+    """
     X_train = featurizer.fit_transform(train_intros)
     N_NEIGHBORS = int(ceil(sqrt(X_train.shape[1])))
     X_test = featurizer.transform(test_intros)
