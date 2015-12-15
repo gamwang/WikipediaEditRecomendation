@@ -9,6 +9,7 @@ import requests
 import json
 import random
 from sets import Set
+from collections import Counter
 
 def get_data(count):
     f = open('../articles_with_categories.json', 'r')
@@ -32,6 +33,20 @@ def get_data(count):
         articles.append(extract)
         i += 1
     return ids, articles, labels
+
+def get_user_data():
+    titles = []
+    extracts = []
+    with open("out.json", 'r') as f:
+        data = json.loads(f.read())
+        for key in data.keys():
+            edits = data[key]
+            for article in edits:
+                if len(article['extract']) == 0:
+                    continue
+                titles.append(article['title'])
+                extracts.append(article['extract'])
+    return titles, extracts
 
 def main():
     N = 1500
@@ -57,11 +72,11 @@ def main():
     test_intros = intros[split_index:]
     test_labels = labels[split_index:]
 
+    """
     featurizer = TfidfVectorizer(analyzer='word', stop_words='english',
             ngram_range=(1,3), min_df=0.03)
     """
     featurizer = CountVectorizer(analyzer='word', stop_words='english', ngram_range=(1,3), min_df=0.03)
-    """
     X_train = featurizer.fit_transform(train_intros)
     N_NEIGHBORS = int(ceil(sqrt(X_train.shape[1])))
     X_test = featurizer.transform(test_intros)
@@ -72,6 +87,11 @@ def main():
     pred = classifier.predict(X_test)
     score = accuracy_score(test_labels, pred)
     print score
+    title, extracts =  get_user_data()
+    extracts = featurizer.transform(extracts)
+    suggestions = classifier.predict(extracts)
+    suggestions = Counter(suggestions)
+    print categories[suggestions.most_common(1)[0][0]]
 
 if __name__ == "__main__":
     main()
