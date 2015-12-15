@@ -10,6 +10,7 @@ import json
 import random
 from sets import Set
 from collections import Counter
+import sys
 
 def get_data(count):
     f = open('../articles_with_categories.json', 'r')
@@ -37,12 +38,20 @@ def get_data(count):
 def get_user_data():
     titles = []
     extracts = []
-    with open("out.json", 'r') as f:
+    if len(sys.argv) != 2:
+        print "Please provide one input json filename."
+        sys.exit(1)
+    filename = sys.argv[1]
+    with open(filename, 'r') as f:
         data = json.loads(f.read())
         for key in data.keys():
             edits = data[key]
             for article in edits:
                 if len(article['extract']) == 0:
+                    continue
+                if ":" in article['title']:
+                    continue
+                if article['title'] in titles:
                     continue
                 titles.append(article['title'])
                 extracts.append(article['extract'])
@@ -54,7 +63,6 @@ def main():
     split_index = int(N * split)
     ids, intros, labels = get_data(2000)
     categories = list(Set(labels))
-    print categories
     labels = map(lambda x: categories.index(x), labels)
 
     #train data
