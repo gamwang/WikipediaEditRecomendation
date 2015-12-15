@@ -51,8 +51,6 @@ def get_user_data():
                     continue
                 if ":" in article['title']:
                     continue
-                if article['title'] in titles:
-                    continue
                 titles.append(article['title'])
                 extracts.append(article['extract'])
     return titles, extracts
